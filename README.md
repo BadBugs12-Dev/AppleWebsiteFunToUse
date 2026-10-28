@@ -9,8 +9,9 @@ An Apple-inspired shopping simulator built for the feeling of choosing something
 - All seven Store shelves, exact Apple web fonts and product media, desktop hover menus with backdrop blur, searchable navigation, shopping-bag flyout, draggable shelves, hover video previews, and gallery transitions.
 - Free simulated engraving for eligible products, payment previews, and purchase-price snapshots that keep order receipts stable after catalog updates.
 - Search, saved products, shopping bag, quantity controls, and repeat purchases.
-- Refillable $25,000 play-money wallet, cent-accurate totals, simulated 8.25% tax, and standard/express shipping.
+- Refillable $25,000 play-money wallet with custom amounts and a balance-only reset, cent-accurate totals, simulated 8.25% tax, and standard/express shipping.
 - Complete checkout, order confirmation, persistent order history, weekday delivery estimates, and automatic tracking milestones.
+- Editable delivery addresses saved with each order; arbitrary address text works without postal verification.
 - Optional fast-forward through deliveries, cancellation/refunds before shipping, and animated package unboxing.
 - Keyboard-accessible dialogs and controls, reduced-motion support, and optional confirmation sound.
 

@@ -15,6 +15,21 @@ const duo=CATALOG.find(p=>p.id==='duo');duo.options=[['256GB',0],['512GB',20000]
 for(const p of CATALOG)if(!p.groups)p.groups=[];
 export const money = n => new Intl.NumberFormat('en-US',{style:'currency',currency:'USD'}).format(n/100);
 export const initialState = () => ({version:1,balance:2500000,bag:[],saved:[],orders:[],clockOffset:0,sound:true});
+export const MAX_BALANCE = 100000000000;
+export function addWalletFunds(state, amount) {
+  const value=String(amount).trim();
+  if(!/^(?:\d+)(?:\.\d{1,2})?$/.test(value))throw new Error('Enter an amount with up to two decimal places.');
+  const [whole,fraction='']=value.split('.');
+  const cents=Number(whole)*100+Number(fraction.padEnd(2,'0'));
+  if(!Number.isSafeInteger(cents)||cents<=0)throw new Error('Enter an amount greater than $0.00.');
+  if(cents>MAX_BALANCE-state.balance)throw new Error('Your balance can be up to $1,000,000,000.00.');
+  return {...state,balance:state.balance+cents};
+}
+export const resetWalletBalance = state => ({...state,balance:0});
+export function deliveryAddress(value={}) {
+  const fields={street:120,apartment:80,city:80,region:80,postalCode:24,country:80};
+  return Object.fromEntries(Object.entries(fields).map(([key,max])=>[key,String(value?.[key]||'').trim().slice(0,max)]));
+}
 export function selection(id,color=0,option=0,care=false,choices={}) {
   const p=CATALOG.find(p=>p.id===id);
   if(!p || !p.colors[color] || !p.options[option])throw new Error('Choose a valid product configuration.');
@@ -51,11 +66,11 @@ export function deliveryWindow(items,shipping='standard',date=new Date()) {
 }
 export const dateLabel = (date,full=false) => new Intl.DateTimeFormat('en-US',{weekday:'short',month:'short',day:'numeric',...(full?{year:'numeric'}:{})}).format(new Date(date));
 export const windowLabel = window => `${dateLabel(window.start)} – ${dateLabel(window.end)}`;
-export function placeOrder(state,shipping='standard',nickname='You',date=new Date(),id='PS'+Date.now().toString(36).toUpperCase()) {
+export function placeOrder(state,shipping='standard',nickname='You',date=new Date(),id='PS'+Date.now().toString(36).toUpperCase(),address={}) {
   if(!state.bag.length)throw new Error('Your bag is empty. Find something you love first.');
   const bill=totals(state.bag,shipping);
-  if(state.balance<bill.total)throw new Error('Your pretend wallet needs a top-up. Add some funds and try again.');
-  const order={id,created:new Date(date).toISOString(),items:structuredClone(state.bag).map(i=>({...i,unitPrice:itemPrice(i)})),shipping,nickname:String(nickname||'You').trim().slice(0,40)||'You',...bill,shippingCost:bill.delivery,delivery:deliveryWindow(state.bag,shipping,date),cancelled:false,opened:false};
+  if(state.balance<bill.total)throw new Error('Your wallet needs a top-up. Add some funds and try again.');
+  const order={id,created:new Date(date).toISOString(),items:structuredClone(state.bag).map(i=>({...i,unitPrice:itemPrice(i)})),shipping,address:deliveryAddress(address),nickname:String(nickname||'You').trim().slice(0,40)||'You',...bill,shippingCost:bill.delivery,delivery:deliveryWindow(state.bag,shipping,date),cancelled:false,opened:false};
   return {state:{...state,balance:state.balance-bill.total,bag:[],orders:[order,...state.orders]},order};
 }
 export function stages(order) {
@@ -66,7 +81,7 @@ export function stages(order) {
   const shipped=addBusinessDays(created,Math.max(1,Math.max(...order.items.map(i=>CATALOG.find(p=>p.id===i.productId).lead[0]))-(order.shipping==='express'?2:1)));shipped.setHours(15,0,0,0);
   const out=new Date(arrival);out.setHours(8,0,0,0);
   const delivered=new Date(arrival);delivered.setHours(16,30,0,0);
-  return [received,{name:'Processing',date:processing.toISOString(),detail:'Getting your order ready. Every detail, just right.'},{name:'Shipped',date:shipped.toISOString(),detail:'Your imaginary package is on its way to your doorstep.'},{name:'Out for delivery',date:out.toISOString(),detail:'Today is the day. Your delivery is getting close.'},{name:'Delivered',date:delivered.toISOString(),detail:'A little box. A big moment. Ready when you are.'}].map((stage,i,list)=>i&&new Date(stage.date)<=new Date(list[i-1].date)?{...stage,date:new Date(new Date(list[i-1].date).getTime()+3600000).toISOString()}:stage);
+  return [received,{name:'Processing',date:processing.toISOString(),detail:'Getting your order ready. Every detail, just right.'},{name:'Shipped',date:shipped.toISOString(),detail:'Your package is on its way to your doorstep.'},{name:'Out for delivery',date:out.toISOString(),detail:'Today is the day. Your delivery is getting close.'},{name:'Delivered',date:delivered.toISOString(),detail:'A little box. A big moment. Ready when you are.'}].map((stage,i,list)=>i&&new Date(stage.date)<=new Date(list[i-1].date)?{...stage,date:new Date(new Date(list[i-1].date).getTime()+3600000).toISOString()}:stage);
 }
 export function orderStatus(order,date=new Date()) {
   if(order.cancelled)return {name:'Cancelled',index:-1};
@@ -87,6 +102,6 @@ export function restoreState(raw) {
     const s=JSON.parse(raw);
     if(s.version!==1||!Number.isSafeInteger(s.balance)||s.balance<0||!Array.isArray(s.bag)||!Array.isArray(s.orders))return fresh;
     const valid=i=>{try{return itemPrice(i)>0&&Number.isInteger(i.qty)&&i.qty>0&&i.qty<=10;}catch{return false;}};
-    return {...fresh,...s,balance:Math.min(s.balance,100000000000),bag:s.bag.filter(valid),saved:Array.isArray(s.saved)?s.saved.filter(id=>CATALOG.some(p=>p.id===id)):[],orders:s.orders.filter(o=>Array.isArray(o.items)&&o.items.length&&o.items.every(valid)&&Number.isSafeInteger(o.total)&&o.total>=0&&Number.isFinite(Date.parse(o.created))&&Number.isFinite(Date.parse(o.delivery?.end))&&Number.isFinite(Date.parse(o.delivery?.start))).map(o=>({...o,items:o.items.map(i=>({...i,unitPrice:Number.isSafeInteger(i.unitPrice)?i.unitPrice:legacyUnitPrice(i)}))})),clockOffset:Number.isFinite(s.clockOffset)&&s.clockOffset>=0?Math.min(s.clockOffset,315360000000):0,sound:typeof s.sound==='boolean'?s.sound:true};
+    return {...fresh,...s,balance:Math.min(s.balance,100000000000),bag:s.bag.filter(valid),saved:Array.isArray(s.saved)?s.saved.filter(id=>CATALOG.some(p=>p.id===id)):[],orders:s.orders.filter(o=>Array.isArray(o.items)&&o.items.length&&o.items.every(valid)&&Number.isSafeInteger(o.total)&&o.total>=0&&Number.isFinite(Date.parse(o.created))&&Number.isFinite(Date.parse(o.delivery?.end))&&Number.isFinite(Date.parse(o.delivery?.start))).map(o=>({...o,...(o.address?{address:deliveryAddress(o.address)}:{}),items:o.items.map(i=>({...i,unitPrice:Number.isSafeInteger(i.unitPrice)?i.unitPrice:legacyUnitPrice(i)}))})),clockOffset:Number.isFinite(s.clockOffset)&&s.clockOffset>=0?Math.min(s.clockOffset,315360000000):0,sound:typeof s.sound==='boolean'?s.sound:true};
   }catch{return fresh;}
 }
