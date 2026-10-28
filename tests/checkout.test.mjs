@@ -55,3 +55,10 @@ test('wallet, bag, saves, order dates and clock survive storage; corrupted data 
   assert.deepEqual(restoreState(JSON.stringify({...initialState(),balance:-100})),initialState());
   const dirty={...initialState(),bag:[{...bagItem(),qty:-1}],saved:['nope']};assert.equal(restoreState(JSON.stringify(dirty)).bag.length,0);
 });
+test('old order receipts keep their original prices when the catalog changes',()=>{
+  const state=initialState();state.orders=[{id:'PSLEGACY',created:'2026-10-28T12:00:00.000Z',items:[bagItem('duo',3,true)],shipping:'standard',subtotal:299800,tax:24734,total:324534,delivery:{start:'2026-11-03T08:00:00.000Z',end:'2026-11-06T19:00:00.000Z'},cancelled:false}];
+  const restored=restoreState(JSON.stringify(state));
+  assert.equal(restored.orders[0].items[0].unitPrice,299800);
+  assert.equal(restored.orders[0].total,324534);
+  assert.notEqual(restored.orders[0].items[0].unitPrice,itemPrice(restored.orders[0].items[0]));
+});

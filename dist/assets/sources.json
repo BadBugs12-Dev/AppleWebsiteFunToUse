@@ -86,5 +86,909 @@
   "detail-watch": {
     "file": "detail-watch.jpg",
     "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/s12-case-unselect-gallery-1-202609?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1788867936144"
+  },
+  "MDFV4J_SW_COLOR-a6cd14.png": {
+    "file": "MDFV4J_SW_COLOR-a6cd14.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MDFV4J_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=VFZQZzAzTCtNZU1iRmxyMTAwWWZmR0VwM2FxSDVlQzBpRUdiYWZpalY5eWZEY0JCMmxibnk1SmdSTXBFWi9jMmk3dG45cDhDRDlhOW8yQXJFYWgwQ0E"
+  },
+  "MGKN4-0ecb25.jpg": {
+    "file": "MGKN4-0ecb25.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MGKN4?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=TElibVhiSHBCWitPaGNSaUJtRW5lZ2tuVHYzMERCZURia3c5SzJFOTlPZ01SYWV3QkpzZEx3VDJuSkU1YXBBM0xEQ1ZJK2s5Tklhc1RJUG05ckZjaGc"
+  },
+  "MGKN4_AV1-55fc8d.jpg": {
+    "file": "MGKN4_AV1-55fc8d.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MGKN4_AV1?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=TXVKamwzRW56d2ZEZEpTbEMyNWtIMVZya2lKWlJmUEwrYndWOTJiVWJWQUYwVmtIbGRkS25RMVpBRlo0bk5DUVFlcXpVaStSYjJNRHpQblB4ZWt4RVE"
+  },
+  "MGKN4_AV2-0b0a20.jpg": {
+    "file": "MGKN4_AV2-0b0a20.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MGKN4_AV2?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=Z0FYOEFzeUI0MXNPWmlpTCtVeFQxbFZya2lKWlJmUEwrYndWOTJiVWJWQUYwVmtIbGRkS25RMVpBRlo0bk5DUWZ5dFlaeGRDTm1qQy9LWnAwVTArS2c"
+  },
+  "MGYX4TA_SW_COLOR-c4944d.png": {
+    "file": "MGYX4TA_SW_COLOR-c4944d.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MGYX4TA_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=aVQ1cWdYVFkwTStJaUw4SnVGNURFdWJodkFDNEUwMWpkSDNmQnlmY1dqUFRmMUFhaXkzWVI4b3hpbGUzQlh3YWViR2hIVnRMSE9XQW50UHFUbmUwTWc"
+  },
+  "MGYY4-471475.jpg": {
+    "file": "MGYY4-471475.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MGYY4?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=TW9xSkVEWFhIa3FqcStHcjNvdEhwZ2tuVHYzMERCZURia3c5SzJFOTlPaTVOVWVPa1N4MnU3LzNiREZjSkZaNHA1RDJ5MHAyNmMyNnlIWUdIaGVLUnc"
+  },
+  "MGYY4_AV1-3ff42d.jpg": {
+    "file": "MGYY4_AV1-3ff42d.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MGYY4_AV1?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=czU1M3EzWWxWT09ZUDlROWd0K1hPVlZya2lKWlJmUEwrYndWOTJiVWJWQUYwVmtIbGRkS25RMVpBRlo0bk5DUTFkSzNKcWVzbmpjZ3I4UGRHSU41RFE"
+  },
+  "MGYY4_AV2-057e44.jpg": {
+    "file": "MGYY4_AV2-057e44.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MGYY4_AV2?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=MWwvWWozYWtKd0RrSG9MSU54THdKbFZya2lKWlJmUEwrYndWOTJiVWJWQUYwVmtIbGRkS25RMVpBRlo0bk5DUXZ0ZXU4MEtxR1g4eEI2TllZOXRlZFE"
+  },
+  "MH004_SW_COLOR-3b4af0.png": {
+    "file": "MH004_SW_COLOR-3b4af0.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MH004_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=Y2VGdWFnOGg5Q3pneDU5Rkc2bUNwRXVZbFJnaWZRWGhXYUNxcUhMUUl5UEhxZjQyanFrTDN5a241WlpqRHdlVDdNa0J2cC9NRG9YTTdTUWgzRW81MFE"
+  },
+  "MH014_SW_COLOR-34d61a.png": {
+    "file": "MH014_SW_COLOR-34d61a.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MH014_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=cURSSlQvK01Edm1UM1RHTlA2Vkp1MHVZbFJnaWZRWGhXYUNxcUhMUUl5UEhxZjQyanFrTDN5a241WlpqRHdlVEoxU3VDbUJiclRIVVIraXJGbVdnVXc"
+  },
+  "MH024_SW_COLOR-4af22e.png": {
+    "file": "MH024_SW_COLOR-4af22e.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MH024_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=SlVGYTdkdFRGNDN6VStUbW9tTXhpRXVZbFJnaWZRWGhXYUNxcUhMUUl5UEhxZjQyanFrTDN5a241WlpqRHdlVEoxU3VDbUJiclRIVVIraXJGbVdnVXc"
+  },
+  "MH044-296cbd.jpg": {
+    "file": "MH044-296cbd.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MH044?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=MWlpYVl0ckdtL2M4RVNJc1M3T1lsUWtuVHYzMERCZURia3c5SzJFOTlPaWVqbEpIZ1hib0hHcnQwY0VMaEZFTktXM2UzV3dXcWRNNzNlVTA1ZWJnbmc"
+  },
+  "MH044_AV1-103e3c.jpg": {
+    "file": "MH044_AV1-103e3c.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MH044_AV1?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=QU1qOHB6TmxFRzE5OTVIZ0oyRmUwRlZya2lKWlJmUEwrYndWOTJiVWJWQUYwVmtIbGRkS25RMVpBRlo0bk5DUTc0UWd4bWpPZVp1QmlibnhoZS9VQ1E"
+  },
+  "MH044_AV2-c1f0ca.jpg": {
+    "file": "MH044_AV2-c1f0ca.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MH044_AV2?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=c0tET2tCclpsQm1MdnFveS83cS84VlZya2lKWlJmUEwrYndWOTJiVWJWQUYwVmtIbGRkS25RMVpBRlo0bk5DUS9SMHliTVlvNDlIeDZvRDhQc2xSbHc"
+  },
+  "MH044_SW_COLOR-c58740.png": {
+    "file": "MH044_SW_COLOR-c58740.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MH044_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=U3BOd044b0ZDWFJTM2JzbkZlZmNCVXVZbFJnaWZRWGhXYUNxcUhMUUl5UEhxZjQyanFrTDN5a241WlpqRHdlVENJR2NUdUpGMGU3K1lyNW1GclA5R0E"
+  },
+  "MJU94ref-fcdfe1.jpg": {
+    "file": "MJU94ref-fcdfe1.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MJU94ref?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=N0k4TUE4aGgvdEx6d1EzTm81N3hwLzFlc25WOEVLY1JSWC9IQlNRYUMrbUNXVjk0TzYwS3Q2V3VwaTE1bnFMYWZUUUpBdzR4QmFxOWFZazBRd3N2RFE"
+  },
+  "MJVH4ref_SW_COLOR-dcc798.png": {
+    "file": "MJVH4ref_SW_COLOR-dcc798.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MJVH4ref_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=N3BBZkJ4QWk0S1Qya1JLNzVNMGdoT1VKSERNL2hSZWVRNnBEeVJtdmxDaWJMQkJvZmEyY08xMStaSG9qcHFqRk5Qb3NsdXdWL3ptd0U1NjNOL1FWM1E"
+  },
+  "MJVP4ref_SW_COLOR-33e275.png": {
+    "file": "MJVP4ref_SW_COLOR-33e275.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MJVP4ref_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=YmhoZG42OFMvaXhzK3dpQU1NS0p3K1VKSERNL2hSZWVRNnBEeVJtdmxDaWJMQkJvZmEyY08xMStaSG9qcHFqRlRwMmg1eGRKY3FMNFhyS3FqOHlLbGc"
+  },
+  "MJVT4ref_SW_COLOR-ff2040.png": {
+    "file": "MJVT4ref_SW_COLOR-ff2040.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MJVT4ref_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=ZGhPWnA0Q0kzRVJ3NWtTWUZUODE4K1VKSERNL2hSZWVRNnBEeVJtdmxDaWJMQkJvZmEyY08xMStaSG9qcHFqRlI3Qzd6OHlhZ0RHK2JNdGZJWUJuUkE"
+  },
+  "MJVV4ref_SW_COLOR-b6e25e.png": {
+    "file": "MJVV4ref_SW_COLOR-b6e25e.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MJVV4ref_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=STBCdC9nOFVZSEh0UmZFa1M3MUJQdVVKSERNL2hSZWVRNnBEeVJtdmxDaWJMQkJvZmEyY08xMStaSG9qcHFqRjVXSEUyRHRUc29mVWVUMHdlUnYyNFE"
+  },
+  "MJVX4ref_SW_COLOR-9ebdc4.png": {
+    "file": "MJVX4ref_SW_COLOR-9ebdc4.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MJVX4ref_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=MTlZOGt1Z0E1eDNSVE9yNGVFU0NLK1VKSERNL2hSZWVRNnBEeVJtdmxDaWJMQkJvZmEyY08xMStaSG9qcHFqRldxdSt6aG43c1JCT21BS3ZTQjlTUVE"
+  },
+  "MJW24ref_SW_COLOR-a461cb.png": {
+    "file": "MJW24ref_SW_COLOR-a461cb.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MJW24ref_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=VUNVUkhVNnhpL0t0dk5BdVp3bHpRdVVKSERNL2hSZWVRNnBEeVJtdmxDaWJMQkJvZmEyY08xMStaSG9qcHFqRmZGSGdlOFJlQ01ZaWFFcWtvdm5vUUE"
+  },
+  "MK854-29e016.jpg": {
+    "file": "MK854-29e016.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MK854?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=TnJ1MmdLaFpsazB5a1NWUUpCOVNFQWtuVHYzMERCZURia3c5SzJFOTlPZ2hpWENIZVdwUnZONnViU0M5dzFjZEtqZjhDbjRSWlFKQUxCNzZ3dzBjOVE"
+  },
+  "MK854-2030fb.jpg": {
+    "file": "MK854-2030fb.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MK854?wid=400&hei=400&fmt=jpeg&qlt=90&.v=QTM5c09jcUxEa0JFY2RzWDU5MkZYUFlvYS9naDJJdU9KTWdGWjhKWFRmS3F5b1hMVE5mTUVPc2xqOGlZQjhJMVJZbFhZYXpkSVluMUVjNEE4TlNEelE"
+  },
+  "MK854_AV1_GEO_US-dfba4c.jpg": {
+    "file": "MK854_AV1_GEO_US-dfba4c.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MK854_AV1_GEO_US?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=T2kwVng4cnZNNnM4QmpKdEtkOUNWMTVBVDNHMHRvbHZSTXg1bWpNejhNRkN3clhsWDdSemNGZnFnN09SWWVTT1hJUU0xaWx0RTZ0SGNNbXlCaVdMWVRLSFZpbUI1Q2p0dWEyV1E3NmNHV0k"
+  },
+  "MK854_AV2_GEO_US-4571b0.jpg": {
+    "file": "MK854_AV2_GEO_US-4571b0.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MK854_AV2_GEO_US?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=QTk2WVMydi9BSENaU2N4WlpRa3BCVjVBVDNHMHRvbHZSTXg1bWpNejhNRkN3clhsWDdSemNGZnFnN09SWWVTT0hhVEd6ZU0xM3V4OElUV0RzSzduQWRFbUZROENTcWtleHFmRFdndVM1azg"
+  },
+  "MK874_SW_COLOR-963573.png": {
+    "file": "MK874_SW_COLOR-963573.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MK874_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=aStTSjhEODQ2UkR3VDZNclNJSWh1MHVZbFJnaWZRWGhXYUNxcUhMUUl5UEhxZjQyanFrTDN5a241WlpqRHdlVHVPRlVEejRYVkNqTENyU3dGalZrYlE"
+  },
+  "MK894_SW_COLOR-fff054.png": {
+    "file": "MK894_SW_COLOR-fff054.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MK894_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=dzBHSitoMHhvWVJqSENqUHJDUERoRXVZbFJnaWZRWGhXYUNxcUhMUUl5UEhxZjQyanFrTDN5a241WlpqRHdlVGFDdmF5QTRGQ0x5MVBJYk13N1A5MVE"
+  },
+  "MK8C4_SW_COLOR-ba7fe9.png": {
+    "file": "MK8C4_SW_COLOR-ba7fe9.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MK8C4_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=bzZuNzBIUDlDV0xJTTRpZnBFd2ZSRXVZbFJnaWZRWGhXYUNxcUhMUUl5UEhxZjQyanFrTDN5a241WlpqRHdlVHhDY3hyYjVjVkMxdU11dk03WHdDRmc"
+  },
+  "MK8D4ref_SW_COLOR-fdc2b5.png": {
+    "file": "MK8D4ref_SW_COLOR-fdc2b5.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MK8D4ref_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=WjdnZWUvTFd2bWM3bDBxYVhzK1FxT1VKSERNL2hSZWVRNnBEeVJtdmxDaWJMQkJvZmEyY08xMStaSG9qcHFqRlBXQzI2NFFKVWM3M0s0ZUxGM3pjYnc"
+  },
+  "MK8E4_SW_COLOR-d5f0b4.png": {
+    "file": "MK8E4_SW_COLOR-d5f0b4.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MK8E4_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=ck9MNDY4MmxMajZDUW5heTB5R2RZVXVZbFJnaWZRWGhXYUNxcUhMUUl5UEhxZjQyanFrTDN5a241WlpqRHdlVDZXYzFjY2l6bDZ2QnlyR0s3V0svM0E"
+  },
+  "MK8F4_SW_COLOR-5fbad7.png": {
+    "file": "MK8F4_SW_COLOR-5fbad7.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MK8F4_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=UzAzdkZUU3pjYXdYdTJ5Mk9TNjhrVXVZbFJnaWZRWGhXYUNxcUhMUUl5UEhxZjQyanFrTDN5a241WlpqRHdlVDJiZVJ6dEFDQStpRm9qNDJJVU5QVlE"
+  },
+  "MK904_SW_COLOR-8d1d47.png": {
+    "file": "MK904_SW_COLOR-8d1d47.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MK904_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=Rmk2aXlHLzlqamloWnFCbG1scjhSMHVZbFJnaWZRWGhXYUNxcUhMUUl5UEhxZjQyanFrTDN5a241WlpqRHdlVFFNOW9MUlVnSGt5anROMWxoY1JmS0E"
+  },
+  "MK914_SW_COLOR-b898a8.png": {
+    "file": "MK914_SW_COLOR-b898a8.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MK914_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=cXV1Y1EzVVBubEg5bkVxRElDbzloRXVZbFJnaWZRWGhXYUNxcUhMUUl5UEhxZjQyanFrTDN5a241WlpqRHdlVEtBbTdGYWNLUGN1WklTZTJLWDdGNVE"
+  },
+  "MK924_SW_COLOR-25852a.png": {
+    "file": "MK924_SW_COLOR-25852a.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MK924_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=cmZoQXl4Z1M1VUNrVmNvcUZwZ0k1MHVZbFJnaWZRWGhXYUNxcUhMUUl5UEhxZjQyanFrTDN5a241WlpqRHdlVGRXZmZsZkNZZnZ6bklwVTlBOGxDMXc"
+  },
+  "MK934_SW_COLOR-671bef.png": {
+    "file": "MK934_SW_COLOR-671bef.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MK934_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=QTlYa3J4eEs4YUhWc3NhdldzU0oxVXVZbFJnaWZRWGhXYUNxcUhMUUl5UEhxZjQyanFrTDN5a241WlpqRHdlVDNzTTZZV2tUM3l1cEhWR2pueGNaUGc"
+  },
+  "MK944-7fe98f.jpg": {
+    "file": "MK944-7fe98f.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MK944?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=d2x6NFpkQ1dnRzljNFJ4eGhudXdHd2tuVHYzMERCZURia3c5SzJFOTlPaW9Ta3FTNGU3WUJlRUoxOUlMR1cwK3pZNGQyN0RpNEk1WnZPMEZSMFJzR1E"
+  },
+  "MK944-47a30c.jpg": {
+    "file": "MK944-47a30c.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MK944?wid=400&hei=400&fmt=jpeg&qlt=90&.v=OWl4YnBIOURycDFJbXlPb0RoWWJZZllvYS9naDJJdU9KTWdGWjhKWFRmSnQydnRpRHU5Uy9kTG9scGY4KzlBS1RoUytEMDlJUUg1M2FZZWRmVHV5bmc"
+  },
+  "MK944_AV1-d7f959.jpg": {
+    "file": "MK944_AV1-d7f959.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MK944_AV1?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=NkQzOXI2dmg0Z3RkNDhaSTNURXlKMVZya2lKWlJmUEwrYndWOTJiVWJWQUYwVmtIbGRkS25RMVpBRlo0bk5DUXhieWQ3MmU3QjdnVDBpTGdNMWxTWHc"
+  },
+  "MK944_AV2-ae1428.jpg": {
+    "file": "MK944_AV2-ae1428.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MK944_AV2?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=TEZ1UkxHV3c0dkxZTDlMVDNGb1RHRlZya2lKWlJmUEwrYndWOTJiVWJWQUYwVmtIbGRkS25RMVpBRlo0bk5DUUZxaEdWOXNpNW1tWnZjTTg3VjJLcVE"
+  },
+  "MK944_SW_COLOR-1487ee.png": {
+    "file": "MK944_SW_COLOR-1487ee.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MK944_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=eFN4TFFEUnZwSEJaaG5lVHBKblFNVXVZbFJnaWZRWGhXYUNxcUhMUUl5UEhxZjQyanFrTDN5a241WlpqRHdlVDZ2S0J1VWU4OW93TG5GbkltQUtDL3c"
+  },
+  "MK954_SW_COLOR-a09ef6.png": {
+    "file": "MK954_SW_COLOR-a09ef6.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MK954_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=cEd4a29QcWlHTFpHRTFjTjQ4cjJLVXVZbFJnaWZRWGhXYUNxcUhMUUl5UEhxZjQyanFrTDN5a241WlpqRHdlVDdGaW5vd01QWVJhMU5BcFFhMFZFcGc"
+  },
+  "MKD14-57cbfe.jpg": {
+    "file": "MKD14-57cbfe.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MKD14?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=SXZuN1UwanQxS3l0YWpxTStpanA2QWtuVHYzMERCZURia3c5SzJFOTlPaXpxbGVkTk9BZ1FBa1FxREVlOEVNWXNCSzBNZ0JDYWtrbmgxcHpBWHU3UEE"
+  },
+  "MKD14-20d342.jpg": {
+    "file": "MKD14-20d342.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MKD14?wid=400&hei=400&fmt=jpeg&qlt=90&.v=N2h5aXJ1UzhhZkZBdzZPbHFNVXVQdllvYS9naDJJdU9KTWdGWjhKWFRmSzhOSitKM1E5ZUNGTlZyTjZKZW5VdFFmMjdkeDY3N1lpOVBTYWk3SEpEK0E"
+  },
+  "MKD14_AV1-22d780.jpg": {
+    "file": "MKD14_AV1-22d780.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MKD14_AV1?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=Z3E4R0VkbkxBNWpHVXpVMFFjTnZ4MVZya2lKWlJmUEwrYndWOTJiVWJWQUYwVmtIbGRkS25RMVpBRlo0bk5DUVdyQ2RPelN3YlE5blJkUnBTcDM3VFE"
+  },
+  "MKD14_AV2-a62617.jpg": {
+    "file": "MKD14_AV2-a62617.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MKD14_AV2?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=NVVzVGNXcm5LcHFqcUIwVnhnK1p6RlZya2lKWlJmUEwrYndWOTJiVWJWQUYwVmtIbGRkS25RMVpBRlo0bk5DUUUxL2pOT0FwamJmTG91SERtOUdGc2c"
+  },
+  "MKD14_SW_COLOR-0d8d5f.png": {
+    "file": "MKD14_SW_COLOR-0d8d5f.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MKD14_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=UWhkWkFkYUZPSVgyVkhhb0ZHc3hka3VZbFJnaWZRWGhXYUNxcUhMUUl5UEhxZjQyanFrTDN5a241WlpqRHdlVEN0bjNZTUZBV0VHeFEwRFBHUTI0dnc"
+  },
+  "MKD24_SW_COLOR-4322d7.png": {
+    "file": "MKD24_SW_COLOR-4322d7.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MKD24_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=R0NlWjhPa2dJa0FUNHZKR1dKQ0wxVXVZbFJnaWZRWGhXYUNxcUhMUUl5UEhxZjQyanFrTDN5a241WlpqRHdlVGNPRVpLOUVLUHVUSlBIc1d5TUFWU1E"
+  },
+  "MKD34_SW_COLOR-7196f2.png": {
+    "file": "MKD34_SW_COLOR-7196f2.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MKD34_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=NHFWSTVDN1BrUlhiWEZicS9Ba3NGa3VZbFJnaWZRWGhXYUNxcUhMUUl5UEhxZjQyanFrTDN5a241WlpqRHdlVE5lREp3Y05OMTE1dm9qRVEzd3g4UkE"
+  },
+  "MKD44_SW_COLOR-2bd158.png": {
+    "file": "MKD44_SW_COLOR-2bd158.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MKD44_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=Qys1aGtwV1E3SUk3MllUZElnWWJPVXVZbFJnaWZRWGhXYUNxcUhMUUl5UEhxZjQyanFrTDN5a241WlpqRHdlVFNaK2QzaFl3eVBnWm9pZ3Z2UmVkdUE"
+  },
+  "MKD54_SW_COLOR-54bfa7.png": {
+    "file": "MKD54_SW_COLOR-54bfa7.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MKD54_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=d1BjWnhYV2JUWXhldm1EM1JsWjlPa3VZbFJnaWZRWGhXYUNxcUhMUUl5UEhxZjQyanFrTDN5a241WlpqRHdlVGJITUdYc0hUSVhUcjJsS0JqNExyU2c"
+  },
+  "MKD64_SW_COLOR-0cff93.png": {
+    "file": "MKD64_SW_COLOR-0cff93.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MKD64_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=TzNpRXRtZlVpUlhkeEJMejRnOVFMRXVZbFJnaWZRWGhXYUNxcUhMUUl5UEhxZjQyanFrTDN5a241WlpqRHdlVDVoMFd6aUV3TG5UeUd6VEhWQlZhSUE"
+  },
+  "MKR64-4461b6.jpg": {
+    "file": "MKR64-4461b6.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MKR64?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=MEQ0ZVZxRzAwc1BibEc5eU45Zm9zUWtuVHYzMERCZURia3c5SzJFOTlPaUFieXAxWjdkaGh0Q0tNQ05BNDkvQnVDU1NmRStEMEtBT05yemJzbDRZbnc"
+  },
+  "MKR64-3f363b.jpg": {
+    "file": "MKR64-3f363b.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MKR64?wid=400&hei=400&fmt=jpeg&qlt=90&.v=ZGI5QVNISnp0TnhCOVFQbUF1RWlUdllvYS9naDJJdU9KTWdGWjhKWFRmSU1ITWx3bGRaT0RuMk9RSVZJYlZvdnhFczNyRC9JdWFyaytSdWpCanVCMkE"
+  },
+  "MKR64_AV1-cbdf75.jpg": {
+    "file": "MKR64_AV1-cbdf75.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MKR64_AV1?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=U3ErV2ptRTJxM3Q3c0hpazBRV1V4bFZya2lKWlJmUEwrYndWOTJiVWJWQUYwVmtIbGRkS25RMVpBRlo0bk5DUUpzSEluZEFwdVlqQmJoRlVVUHgyMkE"
+  },
+  "MKR64_AV2-fccd91.jpg": {
+    "file": "MKR64_AV2-fccd91.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MKR64_AV2?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=T09EdG9hbFZzUkZEbVluTVk5dXhGVlZya2lKWlJmUEwrYndWOTJiVWJWQUYwVmtIbGRkS25RMVpBRlo0bk5DUTlwbGk1Wml5cWRVK1RUcmFONjBqS3c"
+  },
+  "MKR64_SW_COLOR-df6a3d.png": {
+    "file": "MKR64_SW_COLOR-df6a3d.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MKR64_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=bVdQUStkQVZsa1c4YnJFSjk3VjY0MHVZbFJnaWZRWGhXYUNxcUhMUUl5UEhxZjQyanFrTDN5a241WlpqRHdlVGJjenBFdTBVbTZlUjVleG5xRitzNHc"
+  },
+  "MKR74_SW_COLOR-dd141c.png": {
+    "file": "MKR74_SW_COLOR-dd141c.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MKR74_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=TGFJVTJkWGNIckZZM0M3UTZaSUlvVXVZbFJnaWZRWGhXYUNxcUhMUUl5UEhxZjQyanFrTDN5a241WlpqRHdlVGo3SHlmTW1pWjRTWG82aFdQVnB5b2c"
+  },
+  "MKR84_SW_COLOR-3b4858.png": {
+    "file": "MKR84_SW_COLOR-3b4858.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MKR84_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=bDF2YjJjL2hHK0NwaUkza1F0Z2Naa3VZbFJnaWZRWGhXYUNxcUhMUUl5UEhxZjQyanFrTDN5a241WlpqRHdlVHU4UE1Oa25ycVJjcDI4Tk1IRk1FY2c"
+  },
+  "MKR94-9a11a5.jpg": {
+    "file": "MKR94-9a11a5.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MKR94?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=Q0RhVUQxMGE4SU8rQmRZYTluVUUwQWtuVHYzMERCZURia3c5SzJFOTlPZ2FkOU5FTExITVpsMWM3M3ZYdFp1bjlBbjRmNWQrR0x6Z0wxa0E2ZXlZYmc"
+  },
+  "MKR94-c20195.jpg": {
+    "file": "MKR94-c20195.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MKR94?wid=400&hei=400&fmt=jpeg&qlt=90&.v=WTFENmxZalZuLzYraVpmai9qUVVjUFlvYS9naDJJdU9KTWdGWjhKWFRmS01ndTVGenhoeFFvOFNRVVhUclVtQ2twY2laVlovNFh3bmlJNVYwNHFjdXc"
+  },
+  "MKR94_AV1-c9c423.jpg": {
+    "file": "MKR94_AV1-c9c423.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MKR94_AV1?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=UENKeUZHaE1yRDdEYXRNcnJueFEzbFZya2lKWlJmUEwrYndWOTJiVWJWQUYwVmtIbGRkS25RMVpBRlo0bk5DUWxKREdDcDJkcFJmdlVTUXRsY3ZqSWc"
+  },
+  "MKR94_AV2_GEO_US-38dd99.jpg": {
+    "file": "MKR94_AV2_GEO_US-38dd99.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MKR94_AV2_GEO_US?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=Y1pIcTVpc2FuWTFaelovTDFnYlpPbDVBVDNHMHRvbHZSTXg1bWpNejhNRkN3clhsWDdSemNGZnFnN09SWWVTT1YvK0hTdjk1TXVmV1hCd3pNTElsRUs3S3plTGVmdnBWQjJaSmsrempSMWs"
+  },
+  "MKR94_SW_COLOR-dc15ae.png": {
+    "file": "MKR94_SW_COLOR-dc15ae.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MKR94_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=ZE5QeVJISG5VTEpmQ01pV2lOd25XMHVZbFJnaWZRWGhXYUNxcUhMUUl5UEhxZjQyanFrTDN5a241WlpqRHdlVHZSb2ptbmhlRmpYNEdpTGhZN3hzOVE"
+  },
+  "MUW23_SW_COLOR-4c0a8e.png": {
+    "file": "MUW23_SW_COLOR-4c0a8e.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MUW23_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=TWsxc0RHZnh6STVqdmlqZUFKMUloVXVZbFJnaWZRWGhXYUNxcUhMUUl5UEhxZjQyanFrTDN5a241WlpqRHdlVHBuZkJyaC8zeU90aGFYTUxMS2h3UkE"
+  },
+  "MUW33_SW_COLOR-e1482a.png": {
+    "file": "MUW33_SW_COLOR-e1482a.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MUW33_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=UktjSno0TndtVjdDY28wdjJhcThGMHVZbFJnaWZRWGhXYUNxcUhMUUl5UEhxZjQyanFrTDN5a241WlpqRHdlVHlVKzRZZUY5RHBmYmdzdy9UUlVBdkE"
+  },
+  "MUW43-3cc724.jpg": {
+    "file": "MUW43-3cc724.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MUW43?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=YWtJWDJiK1RucFRzUlBFY0prZWhiQWtuVHYzMERCZURia3c5SzJFOTlPaXdubU0rbkxnaHhsbEhvaUZjM3lNU0hjZGNQNTM2dHV2dEwvczhmN3AzOXc"
+  },
+  "MUW43_AV1-f9be20.jpg": {
+    "file": "MUW43_AV1-f9be20.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MUW43_AV1?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=Q2NBN1NwYmNYd1FSN2FHL0oydTNBbFZya2lKWlJmUEwrYndWOTJiVWJWQUYwVmtIbGRkS25RMVpBRlo0bk5DUWtCRzNNNG5SSDdkZXBVQUF3S1hZRGc"
+  },
+  "MUW43_AV2-edca72.jpg": {
+    "file": "MUW43_AV2-edca72.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MUW43_AV2?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=djVENmRaNlNhQW8xenJRTUxYQ0NwVlZya2lKWlJmUEwrYndWOTJiVWJWQUYwVmtIbGRkS25RMVpBRlo0bk5DUWVqQ0VLSVdnRWJUanFHak5RUHZzUGc"
+  },
+  "MUW43_SW_COLOR-5eb5af.png": {
+    "file": "MUW43_SW_COLOR-5eb5af.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MUW43_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=MER4M2prUUVjQW5yWmt2U2lpRUd3RXVZbFJnaWZRWGhXYUNxcUhMUUl5UEhxZjQyanFrTDN5a241WlpqRHdlVHBrOHJGenJDaHhPRzBwaVB5TUtrTlE"
+  },
+  "MUWA3-c134e0.jpg": {
+    "file": "MUWA3-c134e0.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MUWA3?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=dFZURmpjMWNqeXhjb0NWMDZVVnNsZ2tuVHYzMERCZURia3c5SzJFOTlPanBnR2pXWTRHU3BEaEVISG4vR2NHalJOdUZTK2hyNlk4dTdFSXp2TXpTMnc"
+  },
+  "MUWA3_AV1-d82e1c.jpg": {
+    "file": "MUWA3_AV1-d82e1c.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MUWA3_AV1?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=SzcvUnM2ZlVIcUtGeDdvRUpQOWt4RlZya2lKWlJmUEwrYndWOTJiVWJWQUYwVmtIbGRkS25RMVpBRlo0bk5DUWF1K0l5Umc5cVNRSFFHakRlRUdxWmc"
+  },
+  "MUWA3_AV2-945d7f.jpg": {
+    "file": "MUWA3_AV2-945d7f.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MUWA3_AV2?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=TTRUcUhNR3FIVm80ZCtFV0pQcUFtMVZya2lKWlJmUEwrYndWOTJiVWJWQUYwVmtIbGRkS25RMVpBRlo0bk5DUTh2Um1QSDBWRldhdm1oMGpsTW1xWnc"
+  },
+  "MW443_SW_COLOR-25d0cd.png": {
+    "file": "MW443_SW_COLOR-25d0cd.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MW443_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=NlhRaVA5SFBkdThpUHIwTHl5WHBJMHVZbFJnaWZRWGhXYUNxcUhMUUl5UEhxZjQyanFrTDN5a241WlpqRHdlVEc3SThLVXNRbDgxL0t6VkhqYUNoSXc"
+  },
+  "MW463_SW_COLOR-fa9dec.png": {
+    "file": "MW463_SW_COLOR-fa9dec.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MW463_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=NWo3RDVocklPMGhxMHN6dWFYZzZoVXVZbFJnaWZRWGhXYUNxcUhMUUl5UEhxZjQyanFrTDN5a241WlpqRHdlVEc3SThLVXNRbDgxL0t6VkhqYUNoSXc"
+  },
+  "MWQW3-c8b8e5.jpg": {
+    "file": "MWQW3-c8b8e5.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MWQW3?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=WlpRaVc1cnJzQWQranhLOXIydzhCZ2tuVHYzMERCZURia3c5SzJFOTlPakJhdnFhdktNQ1ZocVltL0ZlbGxwZ01sRUZmQUNxeUJmSS9Id05lYmM2bWc"
+  },
+  "MWQW3_AV1-b23748.jpg": {
+    "file": "MWQW3_AV1-b23748.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MWQW3_AV1?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=VU9WMHZQRW5rdXd4b2l4dWdmb2RyRlZya2lKWlJmUEwrYndWOTJiVWJWQUYwVmtIbGRkS25RMVpBRlo0bk5DUUQ5aWNnb1c1REZMSWVUR2xXMkpDd3c"
+  },
+  "MWQW3_AV2-843554.jpg": {
+    "file": "MWQW3_AV2-843554.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MWQW3_AV2?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=TWpaQ3EyMFUwcXdScUlrd1RrYk9CbFZya2lKWlJmUEwrYndWOTJiVWJWQUYwVmtIbGRkS25RMVpBRlo0bk5DUVduZUFiMlFoV2dpTmdDVVY5VnBkVkE"
+  },
+  "MWQW3_SW_COLOR-cc9b25.png": {
+    "file": "MWQW3_SW_COLOR-cc9b25.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MWQW3_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=TW9VSGhSejRyN0hGWUtjcWtGUkljVXVZbFJnaWZRWGhXYUNxcUhMUUl5UEhxZjQyanFrTDN5a241WlpqRHdlVEVrTUp2dUtSK3VqcGkxcjQ2bHZXMXc"
+  },
+  "MWVV3-cb8532.jpg": {
+    "file": "MWVV3-cb8532.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MWVV3?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=Z0NhK081OTZRcVdjS2kxLys5ZGpDUWtuVHYzMERCZURia3c5SzJFOTlPaUxZRW05UENvR2I1ditwQTlTUkJwZHVBYVpQODZ2VDA1a1lBSm83UHYrTWc"
+  },
+  "MWVV3_AV1-a20e49.jpg": {
+    "file": "MWVV3_AV1-a20e49.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MWVV3_AV1?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=SkhOdU9mYTgrb3VRVFZlUGxheHZ6bFZya2lKWlJmUEwrYndWOTJiVWJWQUYwVmtIbGRkS25RMVpBRlo0bk5DUXdadzlBcHJxLzJqYWd3cEJUTWFwc0E"
+  },
+  "MWVV3_AV2-728178.jpg": {
+    "file": "MWVV3_AV2-728178.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MWVV3_AV2?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=VXBKSzdheWl5Y0F1UTZRUkswR3lPRlZya2lKWlJmUEwrYndWOTJiVWJWQUYwVmtIbGRkS25RMVpBRlo0bk5DUWVPeW8yNGVlZ0lZd01sVWRUSDR4Snc"
+  },
+  "MX723_SW_COLOR-150c4f.png": {
+    "file": "MX723_SW_COLOR-150c4f.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MX723_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=SnhQM0tqUjIwMWpXV3FQR0lzTDg2VXVZbFJnaWZRWGhXYUNxcUhMUUl5UEhxZjQyanFrTDN5a241WlpqRHdlVDBFNDFUVE16enU3Mm1tajh0SVF3K3c"
+  },
+  "MX733_SW_COLOR-a6dc70.png": {
+    "file": "MX733_SW_COLOR-a6dc70.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MX733_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=TVZIWFM0bS85Vy96aC9qU2U1dWdpMHVZbFJnaWZRWGhXYUNxcUhMUUl5UEhxZjQyanFrTDN5a241WlpqRHdlVHNWbTZzRkxHNWtHcFljNkhlakFsaUE"
+  },
+  "MX743-a2164d.jpg": {
+    "file": "MX743-a2164d.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MX743?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=UE1XSUhtSzNGd1ptdDA2MFIxQUdPZ2tuVHYzMERCZURia3c5SzJFOTlPaTY2U2V0cFlidDNjaDV1MFlycTJXblF3SE1pMXRIVDNEcHR3dkxDTzY4QlE"
+  },
+  "MX743_AV1-216882.jpg": {
+    "file": "MX743_AV1-216882.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MX743_AV1?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=R1JObDJqMS9rVjhGTVJNbG54aXFYVlZya2lKWlJmUEwrYndWOTJiVWJWQUYwVmtIbGRkS25RMVpBRlo0bk5DUVhUOFAwbHZwWDBCRjRDdStEK2VET1E"
+  },
+  "MX743_AV2-ae00d8.jpg": {
+    "file": "MX743_AV2-ae00d8.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MX743_AV2?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=cGwrRlpGbHA1WUY4K0pmZGtqUlpaMVZya2lKWlJmUEwrYndWOTJiVWJWQUYwVmtIbGRkS25RMVpBRlo0bk5DUTdMWm5EMGU0bllJcWx1MDNjeE4vT0E"
+  },
+  "MX743_SW_COLOR-e5d0d6.png": {
+    "file": "MX743_SW_COLOR-e5d0d6.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MX743_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=eVlGSEp2SFhYN0pITitPSU9acG5VMHVZbFJnaWZRWGhXYUNxcUhMUUl5UEhxZjQyanFrTDN5a241WlpqRHdlVEo5V0lQaWZWSjl5YXI5VXRtQlNjSmc"
+  },
+  "MX753_SW_COLOR-2e9b89.png": {
+    "file": "MX753_SW_COLOR-2e9b89.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MX753_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=UVp5Y04xcmR0RDhOOWxHemp3MmtkMHVZbFJnaWZRWGhXYUNxcUhMUUl5UEhxZjQyanFrTDN5a241WlpqRHdlVHl2M1piaHdjb2M2MWkxakMwN2J5Nmc"
+  },
+  "airpods-5-202609-thumb-1-ad4a71.jpg": {
+    "file": "airpods-5-202609-thumb-1-ad4a71.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-5-202609-thumb-1?wid=282&hei=240&fmt=jpeg&qlt=90&.v=b2t4K1hMb3NUZEdZdWwvWWR5VmlCNmhhNFZvLytGSjh0Q2prNFlnWHpBWTQ1c3BJK0tlQklkc2RPcU1sQld1akh1R2hDWWRRMTNJNzFyMDRVaG1tYUM5QngyYU1UdnhxcmJORzNKUThFTnc"
+  },
+  "airpods-5-202609-thumb-2-8f3944.jpg": {
+    "file": "airpods-5-202609-thumb-2-8f3944.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-5-202609-thumb-2?wid=406&hei=240&fmt=jpeg&qlt=90&.v=b2t4K1hMb3NUZEdZdWwvWWR5VmlCKzNXZVRjaTMvNVRKZzNQa21kQ3RBUTQ1c3BJK0tlQklkc2RPcU1sQld1am81MkNTOEZmSHA4T3hrSnNwRXo5bm5ldnVadkxNVXNZV0liekhjdGdHNGc"
+  },
+  "airpods-5-hero-select-202609-b6247c.jpg": {
+    "file": "airpods-5-hero-select-202609-b6247c.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-5-hero-select-202609?wid=976&hei=916&fmt=jpeg&qlt=90&.v=RVU2SGpGc09oYXdoRmpNcmQ5OG9tR3VtVXdjeDQ5eHAyck91MG5EMElJTGkyVU55U21PWTMyajVGNTlWWnhwak14MXJScFRZN3Y5OWZsRXVrN1k4cFltcWM3RC92MW1IaTRiYkh6SThoUGc"
+  },
+  "airpods-5-select-202609-f593d0.jpg": {
+    "file": "airpods-5-select-202609-f593d0.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-5-select-202609?wid=400&hei=400&fmt=jpeg&qlt=90&.v=eFJocjZCNlgzZlpSRHllMEpvT0N5eEZjNmJ2dXFURDFqZlZHVEo2R0NvQWNEOENNc3A4dkF0RFh0REsvbE5KaDFzbTBrZzVkZnR6bTJYY0pBQ2w2cWQwV280dS9aTG5xeUV0d1pVbGNjZzQ"
+  },
+  "airpods-5-select-202609_FV1-97e92d.jpg": {
+    "file": "airpods-5-select-202609_FV1-97e92d.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-5-select-202609_FV1?wid=976&hei=916&fmt=jpeg&qlt=90&.v=eFJocjZCNlgzZlpSRHllMEpvT0N5MFc3QXkrd1lOczBINzN1b204SXc5djNHc3NlSmU2dzJyR1kxZEwyTE1neUJkRlpCNVhYU3AwTldRQldlSnpRa081UnNNSklyczA1UVE2Mk05aktxd1E"
+  },
+  "airpods-max-202409-thumb-1-d9d944.jpg": {
+    "file": "airpods-max-202409-thumb-1-d9d944.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-max-202409-thumb-1?wid=282&hei=240&fmt=jpeg&qlt=90&.v=YXlFU3RxSVh0MUF3cTczVlN6UHJ6a3JMd1E0RG9xQk4yN0E1VmlNdk83UzZ5cWYxd1NNWmFBd2hMSmNuMUdVSGdsbGZlRHV0Q3JlbHJxWXRlWjZpMnBVN2VZYy9PYWxTU0cyTGxlUXp1YTQ"
+  },
+  "airpods-max-202409-thumb-2-b36d76.jpg": {
+    "file": "airpods-max-202409-thumb-2-b36d76.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-max-202409-thumb-2?wid=406&hei=240&fmt=jpeg&qlt=90&.v=YXlFU3RxSVh0MUF3cTczVlN6UHJ6anFnYWRDeGhCZzZ3aTJKYkk3aXhYSGsvYTJsdWczQ29kY1Qzd0h5T0xPSGdsbGZlRHV0Q3JlbHJxWXRlWjZpMnM3THd2aDBLZ2ZwOGowN2doM1VTQzQ"
+  },
+  "airpods-max-select-202409-blue_SW_COLOR-3043a1.png": {
+    "file": "airpods-max-select-202409-blue_SW_COLOR-3043a1.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-max-select-202409-blue_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=azQxRkVJKzd6V3J0aGNqWFhLMzBmb0JiTy8rMnA3YjhsMm11blczbzRDVUFuV0psZ0JRc0xMNHNraHBENkdxOU1CZjUwYjhVN3dDUVBjMjVNZ1IxQUdtbmFXU1V3TllDY2laMU00WVMyRE1XY2NmSWNLK2p6T0t6OVFidVg0emY"
+  },
+  "airpods-max-select-202409-midnight-2177e0.jpg": {
+    "file": "airpods-max-select-202409-midnight-2177e0.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-max-select-202409-midnight?wid=400&hei=400&fmt=jpeg&qlt=90&.v=azQxRkVJKzd6V3J0aGNqWFhLMzBmdmVWNWdHYnp5cHkwMldsSElEOHpydzZxenl2STByZjdmUGYvR3dmM2RON01LWlMyVmEreEd6UVBWaXRHdkpLMWppQWdEZjVIVUoweGVCQnUrWEowU1ZhN1ZHY2VKVGQ4Nmx6UkdSNXd0OGI"
+  },
+  "airpods-max-select-202409-midnight_FV1-8d2809.jpg": {
+    "file": "airpods-max-select-202409-midnight_FV1-8d2809.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-max-select-202409-midnight_FV1?wid=976&hei=916&fmt=jpeg&qlt=90&.v=azQxRkVJKzd6V3J0aGNqWFhLMzBmdmVWNWdHYnp5cHkwMldsSElEOHpyd0cyWGRFNFZ5QTk3bFlteis2Q2NNaWpENFdPQTN0TWQ4ejhtTWxrUHVDeElGZGV2eWhZaEljUzNSeDlxcDVuWGszbTFldUtUQzN0ellEWHZ3UUFYSS8"
+  },
+  "airpods-max-select-202409-midnight_SW_COLOR-f3f58c.png": {
+    "file": "airpods-max-select-202409-midnight_SW_COLOR-f3f58c.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-max-select-202409-midnight_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=azQxRkVJKzd6V3J0aGNqWFhLMzBmdmVWNWdHYnp5cHkwMldsSElEOHpyeHpZQVJVVDZFeFVEWDd6ZW9MOXN4MW1TNk5ReHNJUDU3Y290emFpeE5nZkhhNTg4T05Ec0E3TWdBUW1EZTMyakVCVExaejlNM0RTeGVvbnJla2hmemM"
+  },
+  "airpods-max-select-202409-orange_SW_COLOR-a35ed2.png": {
+    "file": "airpods-max-select-202409-orange_SW_COLOR-a35ed2.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-max-select-202409-orange_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=azQxRkVJKzd6V3J0aGNqWFhLMzBmbVl3dU4zNmtlQ1czYnJUSEJUcWowRmFpQzY4QU1YNUEzRWZDMHpVRXBjSU4xU1Z0cFpWNm8yUlJuN1FJbVJwMUlGUFhOdTZkMWpFWU84VW1YdkV5akFVMWlmbVl0ZklRcUttM3pwYWFZSms"
+  },
+  "airpods-max-select-202409-purple_SW_COLOR-8e112d.png": {
+    "file": "airpods-max-select-202409-purple_SW_COLOR-8e112d.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-max-select-202409-purple_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=azQxRkVJKzd6V3J0aGNqWFhLMzBmdEFZMGtjOXNTYXJEaHFYa1lFVzIyUmFpQzY4QU1YNUEzRWZDMHpVRXBjSU4xU1Z0cFpWNm8yUlJuN1FJbVJwMUlGUFhOdTZkMWpFWU84VW1YdkV5akNRd0hTVGRwK0hGRDZ2cHY3OVAxaWE"
+  },
+  "airpods-max-select-202409-starlight_SW_COLOR-e6c60a.png": {
+    "file": "airpods-max-select-202409-starlight_SW_COLOR-e6c60a.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-max-select-202409-starlight_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=azQxRkVJKzd6V3J0aGNqWFhLMzBmdWd1NjlYUXFPTDZEK2xySGJScW1PSkQvNkdrbW5KMHFNZFZhZHZWaURZeU5SQnIzRnZJWE90ZUFZdkttK09qTjVyTmNMbStFa25CTklVMjltdmZaZmVYYlBKSzlvdkpFVUp6a29xN0FWUWU"
+  },
+  "airpods-pro-3-hero-select-202509-a32a16.jpg": {
+    "file": "airpods-pro-3-hero-select-202509-a32a16.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-pro-3-hero-select-202509?wid=400&hei=400&fmt=jpeg&qlt=90&.v=cmp4MmZ6OWxOeHNNTXh4SzlBNUpEb1RucE9zZTI5eEREaWZpY29lSld3eVRLNDVIb25yeWxTSzhxdXNNaFBBZmJGcXNRQnFCV0w3WVRjTExvdm1ic1YxRUxFRmRlWDBITzhnRmZ5OTRmaVdKTExiOEFsRmxtQ2Nua0tRSC83MkI"
+  },
+  "airpods-pro-3-hero-select-202509-aabb4a.jpg": {
+    "file": "airpods-pro-3-hero-select-202509-aabb4a.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-pro-3-hero-select-202509?wid=976&hei=916&fmt=jpeg&qlt=90&.v=cmp4MmZ6OWxOeHNNTXh4SzlBNUpEb1RucE9zZTI5eEREaWZpY29lSld3eWVDYXovZDMyN1dXU211bjZoVlVUcWJGcXNRQnFCV0w3WVRjTExvdm1ic1YxRUxFRmRlWDBITzhnRmZ5OTRmaVdKTExiOEFsRmxtQ2Nua0tRSC83MkI"
+  },
+  "airpods-pro-3-thumb-1-202509-998342.jpg": {
+    "file": "airpods-pro-3-thumb-1-202509-998342.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-pro-3-thumb-1-202509?wid=282&hei=240&fmt=jpeg&qlt=90&.v=ZEN5L1ZLampHMG81Vmt6cUxySXA5QU5HN1ptNDZlOWh1UU55TmpKaTFGWlFtQUk3aUJ5NlJiVnd4bFY5ZW9YR014MXJScFRZN3Y5OWZsRXVrN1k4cFpsZ3JtVjc2Y0dhSER0M2RiMGxBeXM"
+  },
+  "airpods-pro-3-thumb-2-202509-122ccf.jpg": {
+    "file": "airpods-pro-3-thumb-2-202509-122ccf.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-pro-3-thumb-2-202509?wid=406&hei=240&fmt=jpeg&qlt=90&.v=ZEN5L1ZLampHMG81Vmt6cUxySXA5Q3JZVkJxc2ozdUxncTJzeTVyOFlCdkNwZXlSV0FIdGxTZDd6NlZmQ0dxaE14MXJScFRZN3Y5OWZsRXVrN1k4cFZmbXpFODN0eU5JNHZUSk9MNnhtc2c"
+  },
+  "beats-360-202609-thumb-1-5081db.jpg": {
+    "file": "beats-360-202609-thumb-1-5081db.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/beats-360-202609-thumb-1?wid=672&hei=572&fmt=jpeg&qlt=90&.v=c3dWOGpPc0FDRExmS1doSzlILytwQ2RnSUp5Tlhmc05EWVMvNEIzaXlTWkhZeldOQnJnaDZuR2V1d25ha1UzS09BSmhvbDlQRGhQNWI1cjFndGxFUDh1ekg5ZGg3RHUvZmMzMTRQMCtZdjg"
+  },
+  "beats-360-202609-thumb-2-11e187.jpg": {
+    "file": "beats-360-202609-thumb-2-11e187.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/beats-360-202609-thumb-2?wid=968&hei=572&fmt=jpeg&qlt=90&.v=c3dWOGpPc0FDRExmS1doSzlILytwQUoyQjdkT08yY3IveWFhVXQ4R04xVkhZeldOQnJnaDZuR2V1d25ha1UzS09BSmhvbDlQRGhQNWI1cjFndGxFUDZPRTRISEZEd1BVTDA0UkVYVkNGNWM"
+  },
+  "beats-360-hero-select-202609-black_SW_COLOR-308171.png": {
+    "file": "beats-360-hero-select-202609-black_SW_COLOR-308171.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/beats-360-hero-select-202609-black_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=S1Nwd3BEQnhVdVpSaFZSWUlLeGNTRStkKzd3aGhtUGVGNDgrb09OT1h4S1VWSzlHazA5MFFXMDd3aDFWRDZCbm1TNk5ReHNJUDU3Y290emFpeE5nZkVsUG84WHNuc21wRVN2ZHM1dEsrdHBqd3dwQ1ZYTHlmT2tSM0dPRzlBV3g"
+  },
+  "beats-360-hero-select-202609-cloud-a662bf.jpg": {
+    "file": "beats-360-hero-select-202609-cloud-a662bf.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/beats-360-hero-select-202609-cloud?wid=400&hei=400&fmt=jpeg&qlt=90&.v=S1Nwd3BEQnhVdVpSaFZSWUlLeGNTS0UzQ0taU2J5T1BxaTZhNTJTcm16M2UwM0I1R3NyL2kyTnN4ZUhRMitrNE1LWlMyVmEreEd6UVBWaXRHdkpLMXYyemlNM3VtSTlHZDk1SktMWWRTNjZaaUsxUXNHWUxYWkFvK2pNTE5Db1k"
+  },
+  "beats-360-hero-select-202609-cloud_FV1-d70875.jpg": {
+    "file": "beats-360-hero-select-202609-cloud_FV1-d70875.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/beats-360-hero-select-202609-cloud_FV1?wid=900&hei=900&fmt=jpeg&qlt=90&.v=S1Nwd3BEQnhVdVpSaFZSWUlLeGNTS0UzQ0taU2J5T1BxaTZhNTJTcm16MW0vK1haVnJySU5DU01yejAzNUc1aWE1eG5Fd2NwV0VQUmdyZWJCVnpUamRxRnRldkthdkgxcDNmeW0yWmhXYk9LZ3dhVFJZLy90NFd4TTVpMFo4RTg"
+  },
+  "beats-360-hero-select-202609-cloud_SW_COLOR-841ec7.png": {
+    "file": "beats-360-hero-select-202609-cloud_SW_COLOR-841ec7.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/beats-360-hero-select-202609-cloud_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=S1Nwd3BEQnhVdVpSaFZSWUlLeGNTS0UzQ0taU2J5T1BxaTZhNTJTcm16MzRsa24zOGcrd216VXlNRW1VUmlIeW1TNk5ReHNJUDU3Y290emFpeE5nZkVsUG84WHNuc21wRVN2ZHM1dEsrdHJGaWk5U0tLd2pqZEtaNlFzMUJoMGU"
+  },
+  "beats-360-hero-select-202609-pink_SW_COLOR-419b51.png": {
+    "file": "beats-360-hero-select-202609-pink_SW_COLOR-419b51.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/beats-360-hero-select-202609-pink_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=S1Nwd3BEQnhVdVpSaFZSWUlLeGNTSDdtSkQ4KzBMZnFwSkdZLzFlQ1BLTUZ4dDMxSnVpWDZjV014bVMyK05qSUFob2lEelc0ajlLcGhUVS9aRjBUZWxWNE9MdENJamtxZ0g0eU84UXRFSGxXb0N1N1VIdE9tV1ZnWlBkdk9abDQ"
+  },
+  "beats-360-hero-select-202609-sky_SW_COLOR-76df3a.png": {
+    "file": "beats-360-hero-select-202609-sky_SW_COLOR-76df3a.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/beats-360-hero-select-202609-sky_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=S1Nwd3BEQnhVdVpSaFZSWUlLeGNTQW41UkkwYW9HaCthQ3JUWDJMdGFSRmFpQzY4QU1YNUEzRWZDMHpVRXBjSU4xU1Z0cFpWNm8yUlJuN1FJbVJwMU4yNWRMaGJrKzVGQS9yb1g4NngxbzREOTJXd0dha0NIa1gwSkR1VEtGU1c"
+  },
+  "homepod-202610-gallery-1-thumb-9a8ddb.jpg": {
+    "file": "homepod-202610-gallery-1-thumb-9a8ddb.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/homepod-202610-gallery-1-thumb?wid=282&hei=240&fmt=jpeg&qlt=90&.v=S3Y3dnlGeHlVeHRyVzNYSnFiZ3dRNS9sWmdnR0JsaldzODR0ODhObU9URzJ2bk9NeXZkV1hTSnFDbzVndWVrMHZvdUZlR0V0VUdJSjBWaDVNVG95Yk0yWUFnSDdKK1NIY1BUYmdyMytWVGc"
+  },
+  "homepod-202610-gallery-2-thumb-9efa99.jpg": {
+    "file": "homepod-202610-gallery-2-thumb-9efa99.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/homepod-202610-gallery-2-thumb?wid=406&hei=240&fmt=jpeg&qlt=90&.v=S3Y3dnlGeHlVeHRyVzNYSnFiZ3dRMHlRcmxxb2lZdERsSktCcjdiY01TWGFkU3hiVytzMlp2aEQrYmxjb2VDL3ZvdUZlR0V0VUdJSjBWaDVNVG95YkdvWjVnUVZ3YW4xV1dzaW05MVdnQ0E"
+  },
+  "homepod-mini-202610-gallery-1-thumb-1ffd55.jpg": {
+    "file": "homepod-mini-202610-gallery-1-thumb-1ffd55.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/homepod-mini-202610-gallery-1-thumb?wid=282&hei=240&fmt=jpeg&qlt=90&.v=YzU1Y3psR3RXUUN2a25lejU4Tnk4N2lSV3UraElqOTJxQTVuYmxTd3RPdHZtZXNKdHV4a0RCRG5KWEFrZUFXcjYyVGp3QzN1c2JsVzhReGhJZS9scGdJUTJyOTF3WWhSSFU2bVI0MG1Vb0FBS0JyOHh5YnIyVWZaN2MxaVkwd3c"
+  },
+  "homepod-mini-202610-gallery-2-thumb-c32fab.jpg": {
+    "file": "homepod-mini-202610-gallery-2-thumb-c32fab.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/homepod-mini-202610-gallery-2-thumb?wid=406&hei=240&fmt=jpeg&qlt=90&.v=YzU1Y3psR3RXUUN2a25lejU4Tnk4MnFnUWg1dTVIcnlucW5tUnZZTnMvbllWRUNOR3JmOGlONkF5M0JpaWJGKzYyVGp3QzN1c2JsVzhReGhJZS9scGdJUTJyOTF3WWhSSFU2bVI0MG1Vb0M1VXZXSWxvOTJLdlcwNGNXVGFLbTk"
+  },
+  "homepod-mini-select-blue-202610_SW_COLOR-74acb8.png": {
+    "file": "homepod-mini-select-blue-202610_SW_COLOR-74acb8.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/homepod-mini-select-blue-202610_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=K2c3bEwyaWVDeDZkdHpLbHkwcGVScXc1YnoxZGlJcWhmYnNWOWJuYkpDVG5lSjJyZXpzbC9sTnlhY2RJL3Z1b2t0ekFGWTdKMENMdER2NlM3a2pob3BRRkpUVVJOU2pwR3JZZk9OcDFHK1h2REUzaWczUUlmV0lsNXQwWlhpajM"
+  },
+  "homepod-mini-select-green-202610_SW_COLOR-b9ce48.png": {
+    "file": "homepod-mini-select-green-202610_SW_COLOR-b9ce48.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/homepod-mini-select-green-202610_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=K2c3bEwyaWVDeDZkdHpLbHkwcGVSazBhY04wdUIvdlZUQk1GWGNzZHR6eGFpQzY4QU1YNUEzRWZDMHpVRXBjSU4xU1Z0cFpWNm8yUlJuN1FJbVJwMUNzanVvK1U1TlRIN0pkZGNWcWdYalBEeUZveGI4d21USVo0cmJ5ZW4wS2o"
+  },
+  "homepod-mini-select-midnight-202610_SW_COLOR-028c8c.png": {
+    "file": "homepod-mini-select-midnight-202610_SW_COLOR-028c8c.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/homepod-mini-select-midnight-202610_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=K2c3bEwyaWVDeDZkdHpLbHkwcGVSaFRaZXZublY0K2p0Ri9sOWcwbVh6akFDd29XbUJVbU9hVlRNU3h4dExEb05SQnIzRnZJWE90ZUFZdkttK09qTnluRDU0QlhPa2Z3TGU0TDlmckt5Z3NZN2hNY0lJblBJZ3YvMWZDNjRSelk"
+  },
+  "homepod-mini-select-pink-202610-faf4e5.jpg": {
+    "file": "homepod-mini-select-pink-202610-faf4e5.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/homepod-mini-select-pink-202610?wid=400&hei=400&fmt=jpeg&qlt=90&.v=K2c3bEwyaWVDeDZkdHpLbHkwcGVSakVLNnFHbW9LWXE5UEVTVVJLTUNZZllLY3ZhZTUxL0tMOHhxSjgvSFVnYTE1UUxLT2t0cW42N3FvQzVqaGhrVVN2YVlXWmpxYlh5dVdST1dBWEMwb3grYWpGdS9XeFgvbS9ITnNYOEhYaG4"
+  },
+  "homepod-mini-select-pink-202610_FV1-df5c83.jpg": {
+    "file": "homepod-mini-select-pink-202610_FV1-df5c83.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/homepod-mini-select-pink-202610_FV1?wid=1868&hei=880&fmt=jpeg&qlt=90&.v=K2c3bEwyaWVDeDZkdHpLbHkwcGVScXRRVlBBbThId3VGVjV5R0VkY1BOTmg5UEh1YlAveUJWditPbXN3blRmVi91YlVrZnFCSWZSZ3JZTTVzMlVYL29lZWZNakozTlo4c2tlc21wdGxDT3REUUplZW5Qelh1U3BrZStreHk1SEY"
+  },
+  "homepod-mini-select-pink-202610_SW_COLOR-8c271c.png": {
+    "file": "homepod-mini-select-pink-202610_SW_COLOR-8c271c.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/homepod-mini-select-pink-202610_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=K2c3bEwyaWVDeDZkdHpLbHkwcGVScXRRVlBBbThId3VGVjV5R0VkY1BOUG5lSjJyZXpzbC9sTnlhY2RJL3Z1b2t0ekFGWTdKMENMdER2NlM3a2pob3BRRkpUVVJOU2pwR3JZZk9OcDFHK1VWd2d1aDdjWlBzYTM0Qks4TGxaZms"
+  },
+  "homepod-mini-select-white-202610_SW_COLOR-66a971.png": {
+    "file": "homepod-mini-select-white-202610_SW_COLOR-66a971.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/homepod-mini-select-white-202610_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=K2c3bEwyaWVDeDZkdHpLbHkwcGVScUNNeFgzb01NZmZpZzZSMGM2UHlLWmFpQzY4QU1YNUEzRWZDMHpVRXBjSU4xU1Z0cFpWNm8yUlJuN1FJbVJwMUNzanVvK1U1TlRIN0pkZGNWcWdYak52TnYyQ25tSTNhY25VVWVpRE1tNlg"
+  },
+  "homepod-select-midnight-202610-1c398f.png": {
+    "file": "homepod-select-midnight-202610-1c398f.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/homepod-select-midnight-202610?wid=940&hei=1112&fmt=png-alpha&.v=N0JQcmtNWnVWeGozUXcxK2ZBcC9vU0F1VmRWYitjZnU1L09YZjhqT1dkaDdKMGdNUjJ3Q0dzSU9tc2pOeGwxbW15d1FhSDJ0bkR0ZGZtUjZJNmFveFlWbkZkTUpiWmR1d1VTcTFZYmVSWTQ"
+  },
+  "homepod-select-midnight-202610_SW_COLOR-56ff63.png": {
+    "file": "homepod-select-midnight-202610_SW_COLOR-56ff63.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/homepod-select-midnight-202610_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=N0JQcmtNWnVWeGozUXcxK2ZBcC9vUUNnejZ0bUlxbThua2pSZ1dtYXMxNEFuV0psZ0JRc0xMNHNraHBENkdxOU1CZjUwYjhVN3dDUVBjMjVNZ1IxQUQzYm8vZUxtalBMS0tHcU1yYkFIQlh1S3dLejQ0WlNVVEMxNkZOMlN0dmk"
+  },
+  "homepod-select-white-202610_SW_COLOR-cdeaf1.png": {
+    "file": "homepod-select-white-202610_SW_COLOR-cdeaf1.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/homepod-select-white-202610_SW_COLOR?wid=32&hei=32&fmt=png-alpha&.v=M2ZJQ1JEdTZVMVdoSy9OYURZL0UwUHZ2bjZHY1RTN1c5ZHBMcTZPcWkxbjJXRUU1Y2dmMGNMbnJtd3ZQZXJkZkhFUzJzeWNxdFZLbFVJWEt6ZkxSQ1JxdDFNK3NibEVLR0pyc1VaVkRTUEIyUXQrc1F4VFIwcWJZNzNTUVpwSTY"
+  },
+  "homeview-model-unselect-gallery-1-202610-e96f10.webp": {
+    "file": "homeview-model-unselect-gallery-1-202610-e96f10.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/homeview-model-unselect-gallery-1-202610?wid=5120&hei=2880&fmt=webp&qlt=90&.v=TjFjNGcyOTRIY2xNVEhlU05RbzlYdks0TkxxOFYxN2dtSHJMdW5sNDFVL05OR1Vaa3pnT0pIUEtzOFM4ZllvWE9UVDVQbVhkcDIxQlRzeDZXVVpQSzYyL0ZSTzZrMWlpUU5CQlpuNHNUZy9ibk5BZnFKVm9qOW1tbEVsVmtaVUk&traceId=1"
+  },
+  "homeview-model-unselect-gallery-2-202610-9a4cc8.webp": {
+    "file": "homeview-model-unselect-gallery-2-202610-9a4cc8.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/homeview-model-unselect-gallery-2-202610?wid=5120&hei=2880&fmt=webp&qlt=90&.v=TjFjNGcyOTRIY2xNVEhlU05RbzlYdks0TkxxOFYxN2dtSHJMdW5sNDFVOTMwcVZlZnJVSzZUdXlEVExselVBdk9UVDVQbVhkcDIxQlRzeDZXVVpQSzYyL0ZSTzZrMWlpUU5CQlpuNHNUZy91TGpsR0NXNksvUDk4aG5QbUR6d3E&traceId=1"
+  },
+  "homeview-witb-silver-202610-ba72b2.jpg": {
+    "file": "homeview-witb-silver-202610-ba72b2.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/homeview-witb-silver-202610?wid=470&hei=680&fmt=jpeg&qlt=90&.v=NzBlT2pXZEtvOTN5NjVPQkszNGRBZ0lTMnFIbE4yQVdTbFY0cHZFWjlqTXZXV0lsUXpvb0xDOE1kWVlTUXI1S0JkRlpCNVhYU3AwTldRQldlSnpRa0RpWUUzemJnaGhvckZ6V3V3WkJ2UzQ"
+  },
+  "imac-color-unselect-202610-gallery-1-f8ea08.webp": {
+    "file": "imac-color-unselect-202610-gallery-1-f8ea08.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/imac-color-unselect-202610-gallery-1?wid=5120&hei=3280&fmt=webp&qlt=90&.v=YUhqSVNUTWk1djNVekVIdjhjMjArV2lpcnh5VXJmMDJnbkxpaXl6MmkxM1ZLS3lIUGwzYkE4SUUyTWVEZVZ1N25WOGRHQ3ZYRTFSbWtOcmtMWGxEbjVuVHhuNTd3WGJmSFFiZ1pPcVp1aExsZWVsLzB6TmxTdStzc0oyc2hLT0E&traceId=1"
+  },
+  "imac-color-unselect-202610-gallery-2-c9f5bd.webp": {
+    "file": "imac-color-unselect-202610-gallery-2-c9f5bd.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/imac-color-unselect-202610-gallery-2?wid=5120&hei=3280&fmt=webp&qlt=90&.v=YUhqSVNUTWk1djNVekVIdjhjMjArV2lpcnh5VXJmMDJnbkxpaXl6MmkxM1hlMDdDOE9zdWN0Q1hiNUxZZS9qdG5WOGRHQ3ZYRTFSbWtOcmtMWGxEbjVuVHhuNTd3WGJmSFFiZ1pPcVp1aEpPdGlPUmpaUWF0ZDVTZU1DRWtoNDE&traceId=1"
+  },
+  "ipad-air-model-unselect-gallery-1-202405-9bd091.webp": {
+    "file": "ipad-air-model-unselect-gallery-1-202405-9bd091.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-model-unselect-gallery-1-202405?wid=5120&hei=2880&fmt=webp&qlt=90&.v=azZtTlRzREZ3NzhWaHRDQW5YeUV0UEs0TkxxOFYxN2dtSHJMdW5sNDFVK3MxV2hYTmJkSS9ZdDBsUEkxd0lnTE9UVDVQbVhkcDIxQlRzeDZXVVpQSzYyL0ZSTzZrMWlpUU5CQlpuNHNUZys4amtPUS9xbkZadzF0WklDMm5nNTU&traceId=1"
+  },
+  "ipad-air-model-unselect-gallery-2-202405-ad01f4.webp": {
+    "file": "ipad-air-model-unselect-gallery-2-202405-ad01f4.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-model-unselect-gallery-2-202405?wid=5120&hei=2880&fmt=webp&qlt=90&.v=azZtTlRzREZ3NzhWaHRDQW5YeUV0UEs0TkxxOFYxN2dtSHJMdW5sNDFVK1p4MGdFOVMzRG8xZXVzVEN1YWdzY09UVDVQbVhkcDIxQlRzeDZXVVpQSzYyL0ZSTzZrMWlpUU5CQlpuNHNUZzhPbGNFY1R3VUMzZXoxd1VwVW00UE8&traceId=1"
+  },
+  "ipad-air-witb-blue-11in-wifi-202405-86cea4.jpg": {
+    "file": "ipad-air-witb-blue-11in-wifi-202405-86cea4.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-witb-blue-11in-wifi-202405?wid=640&hei=680&fmt=jpeg&qlt=90&.v=Y1FabHpVdzRFSmNnZ1FXdGZOMldGVWJINXFId1UwQmFHVEFOS0h1Ryt0RFgxZnovblIzMkIyRkI3RHEzR2RkYVMwWnZwL3FIMTFsdjJkaGdCV1RvWWc4YkJIelhaQXI0V2J3SzRVSTltem5CUHlXTDIvL3dTZFJBeCtvNGwwaWE"
+  },
+  "ipad-mini-finish-unselect-gallery-1-202610-dffe8f.webp": {
+    "file": "ipad-mini-finish-unselect-gallery-1-202610-dffe8f.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-mini-finish-unselect-gallery-1-202610?wid=5120&hei=2880&fmt=webp&qlt=90&.v=eDJDc00wczl1QWk5QmpVYitFNXQwOVgrSXpWVEhWaW9YTGlWRHFoSHU0OEpFY3Y3a3E5R3dMMDZFdGpnR0pWaWd2S3NaRzcrU0dmYjNHTUFiMnlsWFUxSlgrVWMrMzU1OXo2c2JyNjJZTGdiS0dpUTg1WW42VzQ2Q0Q4N3p4Rjc&traceId=1"
+  },
+  "ipad-mini-witb-adapter-202610-166c60.jpg": {
+    "file": "ipad-mini-witb-adapter-202610-166c60.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-mini-witb-adapter-202610?wid=310&hei=680&fmt=jpeg&qlt=90&.v=eFBjYllHdkNXVUt3U0ZmQXZqRldMSUl3V3h2YWlZWjZrbmZEQ0ludXh0WUJMSGtNMThrUG8xMzFpTnhZUUZabXVUb3VPa2FUZVhQMFhDQnVBMWhwQTE0c2NZYnNoeEhUc2puWHBmZFhRQkE"
+  },
+  "ipad-mini-witb-midnight-wifi-202610-117796.jpg": {
+    "file": "ipad-mini-witb-midnight-wifi-202610-117796.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-mini-witb-midnight-wifi-202610?wid=630&hei=680&fmt=jpeg&qlt=90&.v=aXQzckVJOVJ1NVB2NHlvcFdaeC9QQittaWJaY3lpUkZoOHoxY1ZVNkxVUHJFQThlZUJYRjZxdHB3bU5CSnl2UlMwWnZwL3FIMTFsdjJkaGdCV1RvWWwxRm9YR3RTV3c4UGc5eUdYK3IyTEMrczFmdFc4VEoyNjZ5V3BpZk00Z1Y"
+  },
+  "ipad-pro-11-witb-spaceblack-wifi-202405-f1b6d5.jpg": {
+    "file": "ipad-pro-11-witb-spaceblack-wifi-202405-f1b6d5.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-11-witb-spaceblack-wifi-202405?wid=580&hei=680&fmt=jpeg&qlt=90&.v=VmZyMGJaRGRneGVrVWdYK1BVR3BXbnFBVlM3UFFkSEk5dkUvZGszL1g1V09BanpWQ1hUdk5OTFV3cnh4NHJTdXRJeTRHZTNjc1JRYlNTTXoyVUZhUE1wdUt3S25hMjhaakhLSUtSV3lSd2NpTEkzMmQ1Si9SWk82R3NpSEw2dDU"
+  },
+  "ipad-pro-model-select-gallery-1-202405-55ad15.webp": {
+    "file": "ipad-pro-model-select-gallery-1-202405-55ad15.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-model-select-gallery-1-202405?wid=5120&hei=2880&fmt=webp&qlt=90&.v=cXN0QTVTNDBtbGIzcy91THBPRThnNE5sSFgwakNWNmlhZ2d5NGpHdllWY09WV3R2ZHdZMXRzTjZIcWdMTlg4eUJQYkhSV3V1dC9oa0s5K3lqMGtUaFYrNkhvSzBtcy9ubWtTZUpaU0lsQ2R1Yy9kL1dQa3EzdWh4Nzk1ZnZTYWY&traceId=1"
+  },
+  "ipad-pro-model-select-gallery-2-202405-7391de.webp": {
+    "file": "ipad-pro-model-select-gallery-2-202405-7391de.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-model-select-gallery-2-202405?wid=5120&hei=2880&fmt=webp&qlt=90&.v=cXN0QTVTNDBtbGIzcy91THBPRThnMkpvMjZnN3E5aGRZVXJIWmhFMitJSU9WV3R2ZHdZMXRzTjZIcWdMTlg4eUJQYkhSV3V1dC9oa0s5K3lqMGtUaFYrNkhvSzBtcy9ubWtTZUpaU0lsQ2NWNTFabEhVdlFNSjJrWGh4dTRLbEk&traceId=1"
+  },
+  "iphone-17-finish-select-lavender-202509_AV2-3b1a7f.jpg": {
+    "file": "iphone-17-finish-select-lavender-202509_AV2-3b1a7f.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-finish-select-lavender-202509_AV2?wid=724&hei=540&fmt=jpeg&qlt=90&.v=WGdCRlQ0YVlqbTdXTEkxRnVQb0oxcUlHcmZkMUl0cGRrS2JXMzRCZWNFazhoSGozaDhHYjRWeWk3WVBoTXNuNnppRFFUQWNsM2txTVJoMG04WVAwREFYUldRZVYxMHFkRFZrQVZuaWMwSkR4MllpU2FhU1VMNEZndkhvL0N1bFc"
+  },
+  "iphone-17-finish-unselect-gallery-1-202509_GEO_US-9af20e.webp": {
+    "file": "iphone-17-finish-unselect-gallery-1-202509_GEO_US-9af20e.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-finish-unselect-gallery-1-202509_GEO_US?wid=5120&hei=2880&fmt=webp&qlt=90&.v=WGdCRlQ0YVlqbTdXTEkxRnVQb0oxdFgrSXpWVEhWaW9YTGlWRHFoSHU0OUFxWTdCbFhxa0dhaGFmNkNjSWxSb0FOL1haWCt6TDJ0UWlLb09XajVNdENYR1ZZZnEyMVlVQUliTThGMjNyaFN4MTNVU0FrSGRPbjQxdTdMMFNTYTBnWTRGR2xpS0I2cnhMYzZYallpSnFB&traceId=1"
+  },
+  "iphone-17-finish-unselect-gallery-2-202509_GEO_US-3a559e.webp": {
+    "file": "iphone-17-finish-unselect-gallery-2-202509_GEO_US-3a559e.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-finish-unselect-gallery-2-202509_GEO_US?wid=5120&hei=2880&fmt=webp&qlt=90&.v=WGdCRlQ0YVlqbTdXTEkxRnVQb0oxdFgrSXpWVEhWaW9YTGlWRHFoSHU0L0hjYzcwVTh6bFdGNjBORUNFZExDN0FOL1haWCt6TDJ0UWlLb09XajVNdENYR1ZZZnEyMVlVQUliTThGMjNyaFFjaE5Ma1FxV0FmWVdKcWNtSkIrcnJaRkEweU5DMHdUaEdXcnlYQU5Yc0V3&traceId=1"
+  },
+  "iphone-burgundy.jpg": {
+    "file": "iphone-burgundy.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-finish-select-burgundy-202609_AV2?wid=724&hei=540&fmt=jpeg&qlt=90&.v=ODB3TEdtbk8ybkd3clM3dWVML3VCVmtqbnQyNWMvcld5Yy9DTnQyVUlQYnd0N0MvN002Q2xTTTlsNDE2S0J6M2h2Q29kcWs4WTl5cjdvUC9sdGZWcmRlVUN5anBMYXArdTZxQXVZNFlaRkdjcy95dXRDa1NDUVdPVmlYeklhNXBmbW94YnYxc1YvNXZ4emJGL0IxNFp3"
+  },
+  "iphone-18-pro-model-unselect-gallery-1-202609-a9c017.webp": {
+    "file": "iphone-18-pro-model-unselect-gallery-1-202609-a9c017.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-model-unselect-gallery-1-202609?wid=5120&hei=2880&fmt=webp&qlt=90&.v=bkJmVnE4RHE3TEVZSVlwT0RrRVEwZ2FRQXQ2R0JQTk5udUZxTkR3ZVlpTGtoUnJxT0FMNkNUM2VlQVk2ZnNvTDBoUVhuTWlrY2hIK090ZGZZbk9HeEJWb1BiTjRORlc1Y1lKU3JWempySkxjeE5VMEtUelI5WFdCWWd5Y2dMYVJmbW94YnYxc1YvNXZ4emJGL0IxNFp3&traceId=1"
+  },
+  "iphone-18-pro-model-unselect-gallery-2-202609_GEO_US-3508eb.webp": {
+    "file": "iphone-18-pro-model-unselect-gallery-2-202609_GEO_US-3508eb.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-model-unselect-gallery-2-202609_GEO_US?wid=5120&hei=2880&fmt=webp&qlt=90&.v=bkJmVnE4RHE3TEVZSVlwT0RrRVEwZ2FRQXQ2R0JQTk5udUZxTkR3ZVlpSjVRUVRmQmtTRmF0bXpCVEo3bHpKa0lYUWYrQkRLNitCbE9QRVRqNHErMkE3b3pFWnhZZ2g0M0pRR0pEdHVSRUhOWndGa21oeDRMUFpMS1Q1YVdyV3ZoZ09sdWpFNlY5dytkWGg1MHdjVCtR&traceId=1"
+  },
+  "iphone-card-40-carriertrade-202409-281920.webp": {
+    "file": "iphone-card-40-carriertrade-202409-281920.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-card-40-carriertrade-202409?wid=800&hei=1014&fmt=webp&qlt=90&.v=cmVEYjlFVTUrZjdLT25ZZ2djOUZ2WTVRdHN0TWZxV3QyUGs3WkMzR0dyM1Nab1lJcUZwSFVRK1htYlNmZUtPTFNxVmFJL1p3SVNXWlA5RUhlWmdjY2ErK1U5TUo2UVYyTHd5LzN5eFFzZDdwL0d1c3NWVlpVcHFPcTQ2OUZwVTE&traceId=1"
+  },
+  "duo-white.jpg": {
+    "file": "duo-white.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-duo-finish-select-star-white-202609_AV2?wid=1448&hei=1080&fmt=jpeg&qlt=90&.v=L2FnUkNTRm43ZDRCREFsdzlaeThka1hsOUZkQmZFRkQ2eEh0dEM0bVFwWDQyMkp3ajFERU1EdEpnTkVrNzFmMHFJdkJPZTFIVklMRHF5Qjlvcy9ObW14YXJFQWFnVmkrMkUzQ3k2TDVtN0dZeVdXc0RpQ01aMHg0Q2tCOVExRGh1YmZQMXFXa2w0U3RUanhYSTV4Z29R"
+  },
+  "iphone-duo-finish-unselect-gallery-2-202609-80854d.webp": {
+    "file": "iphone-duo-finish-unselect-gallery-2-202609-80854d.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-duo-finish-unselect-gallery-2-202609?wid=5120&hei=2880&fmt=webp&qlt=90&.v=L2FnUkNTRm43ZDRCREFsdzlaeThkbXJ2UHBBV3orM3VMYVQ4cFJXZmQxV01tM2hLckRaOWVhOFJXV0o5em9kQ3F2TWlpSzUzejRCZGt2SjJUNGl1VEE4bm1RcmlWRWp2eDN1WHNkSjNmUlpZTFpMWG5XajlxOHdOV0VMNThzb3o&traceId=1"
+  },
+  "iphone-duo-witb-star-white-202609-a157cc.jpg": {
+    "file": "iphone-duo-witb-star-white-202609-a157cc.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-duo-witb-star-white-202609?wid=386&hei=678&fmt=jpeg&qlt=90&.v=UXRzMmJCVFBRbmt6ckpmVFpkSGV6eEtyVERMOFdiWWk0VWhrQzkzZjY1eG1kN3BaL1VFVnNsUVpwNVlpZXdldWhabWVOZUJidkVVTmVBWnZsRzdJVkZwY2hycHQ3cHFjWjZZWGladm03UFA0TjVYSTlBSTJEWFRmd2Q1ejdzcUw"
+  },
+  "mac-macbook-pro-size-unselect-202610-gallery-1-f5eea2.webp": {
+    "file": "mac-macbook-pro-size-unselect-202610-gallery-1-f5eea2.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mac-macbook-pro-size-unselect-202610-gallery-1?wid=5120&hei=3280&fmt=webp&qlt=90&.v=aXlkdGF0T0RUUVdDckNLaUc0OEE0d2huNHI2YVc1MjYxWkRLa3k4U1gzZkZqYlFGRSt2MU1KVVdqeHpVbCs4WHJUNGJWZ1llU1plZmhBekVhZm5NQnNqbWRhTGpRM2xxVWJRWUhSaDlCQ3JBdVNkcGlMWEhjcWdXQU95WUdsMWwvdW5uSjR2YkZNVkdPa3lzQzROY3h3&traceId=1"
+  },
+  "mac-macbook-pro-size-unselect-202610-gallery-2-82c606.webp": {
+    "file": "mac-macbook-pro-size-unselect-202610-gallery-2-82c606.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mac-macbook-pro-size-unselect-202610-gallery-2?wid=5120&hei=3280&fmt=webp&qlt=90&.v=aXlkdGF0T0RUUVdDckNLaUc0OEE0d2huNHI2YVc1MjYxWkRLa3k4U1gzZFNva2E3UzNyY3MwTWxVRk5FUkhkYXJUNGJWZ1llU1plZmhBekVhZm5NQnNqbWRhTGpRM2xxVWJRWUhSaDlCQ3FiNXZrMXBVZno1ejh3NmRJeU5zcDB1YmZQMXFXa2w0U3RUanhYSTV4Z29R&traceId=1"
+  },
+  "mac-memory-thumbnail-6620b5.jpg": {
+    "file": "mac-memory-thumbnail-6620b5.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mac-memory-thumbnail?wid=1152&hei=648&fmt=p-jpg&qlt=95&.v=Z2hFQWQyK2RNZHppRFBCSm9DTFBlek5IbkxHbDQvMzZ2MldzaDZxSjdOc1o4NGpqQVV4L05vQTlOQnNyMm0vdGVOa0dzTHlyNGFDaFZaOVBXdnAzZG5zY3A4T3BLaWVLTU1Keml0S2xndDQ"
+  },
+  "mac-mini-chip-unselect-202608-gallery-1-d6af2b.webp": {
+    "file": "mac-mini-chip-unselect-202608-gallery-1-d6af2b.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mac-mini-chip-unselect-202608-gallery-1?wid=5120&hei=3280&fmt=webp&qlt=90&.v=d1pXNGRPZVVoYmlPOFhNR3g4R2wxRXR2WVdiVFJadS9sN05uYmNBWEpHZVFmZjd5T2R4eGRzZEl3a0hpNytPUWNUSUVuN05yMDFTMGpCcHdJOHQraUZRMEtEeDByREJSQXdPdlFaMGVRaThtU0lTRjFKOXFNZ2E2dXMzb0F0MVc&traceId=1"
+  },
+  "mac-mini-chip-unselect-202608-gallery-2-a154e6.webp": {
+    "file": "mac-mini-chip-unselect-202608-gallery-2-a154e6.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mac-mini-chip-unselect-202608-gallery-2?wid=5120&hei=3280&fmt=webp&qlt=90&.v=d1pXNGRPZVVoYmlPOFhNR3g4R2wxRXR2WVdiVFJadS9sN05uYmNBWEpHZEFHa1FlVFQ5VnVubnpiK1QrSUFjamNUSUVuN05yMDFTMGpCcHdJOHQraUZRMEtEeDByREJSQXdPdlFaMGVRaS9OVTROSWxCdDN0Q1pxRERvWXFwL3k&traceId=1"
+  },
+  "mac-storage-thumbnail-5333f4.png": {
+    "file": "mac-storage-thumbnail-5333f4.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mac-storage-thumbnail?wid=1152&hei=648&fmt=png-alpha&.v=SU9LdHJyQUNTTWtQZ2g2ZFYzSXJJZlBjaVNRTzNNYU55T1JOQ0lBbU1SaW5HTDdMeFNmYVBJWkxQZnVtTUhDQlJRclJ0bGZ2ZzlocFoydzN0am9IVFEzeVFBNGlzbzdhOFl6dVdEbDhjVkU"
+  },
+  "mac-studio-chip-unselect-202608-gallery-1-eb11a0.webp": {
+    "file": "mac-studio-chip-unselect-202608-gallery-1-eb11a0.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mac-studio-chip-unselect-202608-gallery-1?wid=5120&hei=3280&fmt=webp&qlt=90&.v=Q0wvVFlkSnZCd1pNaGQ2aENud1pOd2h5dEROb21tWXk1TTk5REtzUUVvcWhtTkxkeUYxclpFMzhjZzBKekV3emZvSGF2dFhlaXl5ZzZDVTRMdEVvNll2UjRaSC9URTlmd0FSb1ZTWjRnb3RtYzJOeURsQnd6R2VHYWNKdm54eHA&traceId=1"
+  },
+  "mac-studio-chip-unselect-202608-gallery-2-ebd244.webp": {
+    "file": "mac-studio-chip-unselect-202608-gallery-2-ebd244.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mac-studio-chip-unselect-202608-gallery-2?wid=5120&hei=3280&fmt=webp&qlt=90&.v=Q0wvVFlkSnZCd1pNaGQ2aENud1pOd2h5dEROb21tWXk1TTk5REtzUUVvcFc3ellxSHFRV0plOHJLUzZaU2xTU2ZvSGF2dFhlaXl5ZzZDVTRMdEVvNll2UjRaSC9URTlmd0FSb1ZTWjRnb3N4MEtJUXNraG1ybGFOSEtSTzljTmI&traceId=1"
+  },
+  "mac-trade-in-thumbnail-55b24c.jpg": {
+    "file": "mac-trade-in-thumbnail-55b24c.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mac-trade-in-thumbnail?wid=1152&hei=648&fmt=p-jpg&qlt=95&.v=dU9RdkM5cjFJbGp4NGlWOXFlTEduVkdQbkRlQ2g1VkNsKzJjNkpRVDF2YU9PcFllUUZiWkp3R1FpdjgraVhydVAxdVdLUnc5WFJGeXJLU0tnaWluZXdqZE51R1VMWitRdnEyYk1qSUZldEk"
+  },
+  "macbook-air-size-unselect-202601-gallery-1-e14a75.webp": {
+    "file": "macbook-air-size-unselect-202601-gallery-1-e14a75.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/macbook-air-size-unselect-202601-gallery-1?wid=5120&hei=3280&fmt=webp&qlt=90&.v=YTFkSnBPS2tMZFdhaFNRRkx6VnJZaUd4WmthcldkemtncUgvMzhXenFEVkJtY3lja2FvNzhqZzhFY0x4NDFzYkE0ZWxMVGt3djRUV0FHWk92REs5YjAxSlgrVWMrMzU1OXo2c2JyNjJZTGpEUE90ekhYc3dvRnFSbFQ0NEVuaVQ&traceId=1"
+  },
+  "macbook-air-size-unselect-202601-gallery-2-066e89.webp": {
+    "file": "macbook-air-size-unselect-202601-gallery-2-066e89.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/macbook-air-size-unselect-202601-gallery-2?wid=5120&hei=3280&fmt=webp&qlt=90&.v=YTFkSnBPS2tMZFdhaFNRRkx6VnJZaUd4WmthcldkemtncUgvMzhXenFEVVRlaHhGN20wRmRVeXJZOXVWckpTTEE0ZWxMVGt3djRUV0FHWk92REs5YjAxSlgrVWMrMzU1OXo2c2JyNjJZTGl5b3ZJaHdmbkJtMTkzbm9PRTFDVXM&traceId=1"
+  },
+  "macbook-neo-color-unselect-202603-gallery-1-7916c3.webp": {
+    "file": "macbook-neo-color-unselect-202603-gallery-1-7916c3.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/macbook-neo-color-unselect-202603-gallery-1?wid=5120&hei=3280&fmt=webp&qlt=90&.v=TytZbDBUUnRqRElRcFlBSHpmZVVDK3BoR2lIdGdhMDNQSUZrOHIycWd6Vmd1bjBBbHBBMFNjNjVIN0pUcUg2U0tZMGFKbG9yanhQdjZDS1dZUFFhRVE4bm1RcmlWRWp2eDN1WHNkSjNmUmFub3B6RFdCcnJtSHE1TzBCb3pCcis&traceId=1"
+  },
+  "macbook-neo-color-unselect-202603-gallery-2-924463.webp": {
+    "file": "macbook-neo-color-unselect-202603-gallery-2-924463.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/macbook-neo-color-unselect-202603-gallery-2?wid=5120&hei=3280&fmt=webp&qlt=90&.v=TytZbDBUUnRqRElRcFlBSHpmZVVDK3BoR2lIdGdhMDNQSUZrOHIycWd6VmhqT1Z5MDhpY0RzSUsyRE5hMmJpNktZMGFKbG9yanhQdjZDS1dZUFFhRVE4bm1RcmlWRWp2eDN1WHNkSjNmUmJ4U1U2ZlRBYTRVVVcwcUM2OVlnNDE&traceId=1"
+  },
+  "personal-setup-shop-shared-202511_GEO_US-5407bb.png": {
+    "file": "personal-setup-shop-shared-202511_GEO_US-5407bb.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/personal-setup-shop-shared-202511_GEO_US?wid=1416&hei=304&fmt=png-alpha&.v=SHZZMGp3V1JFZENMUXpQQW5mMHBoQUhrY1FTOFM4SUVmVGRiVDNFMFhsejBPd0dXaVg3eVUyTzk3R1plMjBQU2FrTTY1bTJMc0ZnLzh6ZVZEMkplL0RJRXBGODJ3dTV1czBzZTV1OWFTODRLdEllVnZ5NGNEbFFCL21QeGVkc3g"
+  },
+  "s12-case-unselect-gallery-1-202609-53e79b.jpg": {
+    "file": "s12-case-unselect-gallery-1-202609-53e79b.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/s12-case-unselect-gallery-1-202609?wid=5120&hei=3280&fmt=p-jpg&qlt=80&.v=Y1k0bnhVNzRteUVWdkpzbHlQZlRGM254NDR4QWcvRk5LSHlIc282VG82Rks0VDVpelJQc3lnS0NUUk44L0hxRlBPMVJocHRGWWdEaGFBbE5iRklMb1JRVmF3ZnkyYldSamE5Qk9mTks0RXZCa0RacjBMUWtYQmhXRi9zVy9kaGY"
+  },
+  "s12-case-unselect-gallery-2-202609-6aaeb8.jpg": {
+    "file": "s12-case-unselect-gallery-2-202609-6aaeb8.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/s12-case-unselect-gallery-2-202609?wid=5120&hei=3280&fmt=p-jpg&qlt=80&.v=Y1k0bnhVNzRteUVWdkpzbHlQZlRGMmptbHM4bXVDOWxra0FjOWhIVjk5Uks0VDVpelJQc3lnS0NUUk44L0hxRlBPMVJocHRGWWdEaGFBbE5iRklMb1N5OGd1UVRkREJid0xoSWxGYjduWnJhbllaNDBVUGdMQ2xXT3BKZ0ljeS8"
+  },
+  "services-mac-202605_GEO_US-524cbb.png": {
+    "file": "services-mac-202605_GEO_US-524cbb.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/services-mac-202605_GEO_US?wid=2140&hei=960&fmt=png-alpha&.v=a2JEcVNFT0tMZTJFNm9sa0RXRkxocDFvOWJmd0tIckpxM3dEcGloR1oxTmhZUzVLeHBiWFFCd0cvc1JEVXVlRjlncFU0OERwblk3RzBFWmlFL1EyNXFYcnkxT1p2dmZsZ05jejBIemp5RGs"
+  },
+  "store-card-13-accessories-nav-202609-d36f2d.webp": {
+    "file": "store-card-13-accessories-nav-202609-d36f2d.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/store-card-13-accessories-nav-202609?wid=240&hei=156&fmt=webp-alpha&qlt=90&.v=QnhsNk96S0o4R1dkN2FveStNM1hwNzZGMHVrNGw2NTM5Vmk2bHZzMXQ3andmemN3dmNHVFJjenRQYk1lUFpSRFUvQk80eDZ3VFAzNXRKWVBtSG1tRktvSHphdyszeHBObUNiNWtRSFBzM1k4aWJmZ0ZqclZySWJJMFljQnNqR1M&traceId=1"
+  },
+  "nav-airpods.webp": {
+    "file": "nav-airpods.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/store-card-13-airpods-nav-202509?wid=400&hei=260&fmt=webp-alpha&qlt=90&.v=Q0Z1bWFqMUpRRnp3T0Y0VWJpdk1yMDhFUStvWHB3SDlDa3VrdUZORWRqeld1aTN5QlRYNG5PRjJxc2d1RklXbXFIMjJSU3VUZGRWY2Q0ZzZrZlVTSEVaKytVOXBFNXhUYkFYeU1LbHRXRDJCblJUU25lOTBVc1pJNFhQcHA5TlQ&traceId=1"
+  },
+  "store-card-13-airtags-nav-202601-86a709.webp": {
+    "file": "store-card-13-airtags-nav-202601-86a709.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/store-card-13-airtags-nav-202601?wid=400&hei=260&fmt=webp-alpha&qlt=90&.v=Q0Z1bWFqMUpRRnp3T0Y0VWJpdk1yL1FqZ2pobDV2bDUyWU1XVmNnMmx3VFd1aTN5QlRYNG5PRjJxc2d1RklXbXFIMjJSU3VUZGRWY2Q0ZzZrZlVTSEtwNS9iZlZFOXI4OVJlckErUVNlekMvZUZiN3NsZUNFZ1FxWm45dm13UTg&traceId=1"
+  },
+  "store-card-13-holiday-giftcards-asit-agc-nav-202111-8606b9.webp": {
+    "file": "store-card-13-holiday-giftcards-asit-agc-nav-202111-8606b9.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/store-card-13-holiday-giftcards-asit-agc-nav-202111?wid=400&hei=260&fmt=webp-alpha&qlt=90&.v=WVcvamRucHVMMWs5SXZ3bVJ3Q2hpWWJZU3c1a04rNW9Zem5ScTRJL25qWnlvS2lBUzZZRytsa2hkcGtRYVFoZnJYVFd2aTZFN3pZenpyR0NkbGY4enRyREk0ajBYSnBNckJFaWI0aDRVWGhHMHhkT2s0alNrTGt3eU5zVDdvTzBWTGpxbjFBdlZrNCswLzM1dnVOUTVB&traceId=1"
+  },
+  "store-card-13-home-nav-202610-8cfa4b.webp": {
+    "file": "store-card-13-home-nav-202610-8cfa4b.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/store-card-13-home-nav-202610?wid=240&hei=156&fmt=webp-alpha&qlt=90&.v=WVcvamRucHVMMWs5SXZ3bVJ3Q2hpY3pMQndCZkNPK0ZRT1NrSytBaGh3QkFNWWxIRnZ4YitGb1F5WisvNlFPWmtqQUNSY05Zb293eGJHTE9hUWczcnBtWjlGQjJibmZJclJ3Y2pkdHgvV2wzaXFuTzZGbFcwOHpRaDlES0I1aEU&traceId=1"
+  },
+  "nav-ipad.webp": {
+    "file": "nav-ipad.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/store-card-13-ipad-nav-202405?wid=400&hei=260&fmt=webp-alpha&qlt=90&.v=dW5XbHI1eDVpd01qWUU4bFRtWGZXNGFLQTJVNnlNQmQrVmRBYnZYei9jckUzelNmMnRxajE0NHhmMWtLazl6eGtqQUNSY05Zb293eGJHTE9hUWczcnVqTnpaVXRhU3dOZ1ZOcTU5bHVTTkNFYWxxelhUNTl3NnJFTGlRNFh3azE&traceId=1"
+  },
+  "nav-iphone.webp": {
+    "file": "nav-iphone.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/store-card-13-iphone-nav-202609?wid=400&hei=260&fmt=webp-alpha&qlt=90&.v=dW5XbHI1eDVpd01qWUU4bFRtWGZXMWdGVG1nbG0xL1p6dm9DRUFPZ0dweDVoZlhhY1p4QWdsTjFNaGRHM3FYWWUzNFVlZmYxaVpiTW5tRlBYR0RFVklTTzF3TXlWM0VQVDViZjNveGdyVU9lTTB1dFozcWlUMzVoT1cvanh0Tmw&traceId=1"
+  },
+  "nav-mac.webp": {
+    "file": "nav-mac.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/store-card-13-mac-nav-202603?wid=400&hei=260&fmt=webp-alpha&qlt=90&.v=M1Q3OGxnb1lBaHhqNjZ2OVRXZmx4V2duSGVkdTVncGZYc0RnS1paU3IySCsrUlZaSVRoWVYzU0Qra0FoTmUwNi9QNXlFS1hSa1R2UkcrWjFiN21qeHJmM2dNTnRBQ1R4cGxoYkFsaEFKa1c1K1k1Y2ZhL2RsT3JqdUh6czBxZU0&traceId=1"
+  },
+  "nav-vision.webp": {
+    "file": "nav-vision.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/store-card-13-vision-pro-nav-202401?wid=400&hei=260&fmt=webp-alpha&qlt=90&.v=VzVpanYvTldHb05iVXFhc0xveWRLM25jd0w4dXFwc1hFbWZkNm9IcUR2bytSMWt1ZUNyTGx4SjRKL1pSL0ZDeDJzTWppUFJjbWt5c0VTSnZpSGhSZVBqOWVIcWlLZU4wTy91U1NTVlNIU25RREYzN0M5bCttdXFSOEZURjh1ODY&traceId=1"
+  },
+  "nav-watch.webp": {
+    "file": "nav-watch.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/store-card-13-watch-nav-202609?wid=400&hei=260&fmt=webp-alpha&qlt=90&.v=S0tSVzBtSkRkSFFhMm1zS1NmeWtkM1krTnlTbUtyb2RYcy9TNU5WVjJnckh5NTJ6cGtEemJOblBHR043ZjFkZ1FUcmZyeDQwOGFDYVkxdC9kdiszb2RsY0pIL3JmeUsvMi9qL3Jkcm1CVjZYL1c4Z1hiQmdQWWZMTHBXbUhabnU&traceId=1"
+  },
+  "store-card-40-accessories-202609-3dabbd.webp": {
+    "file": "store-card-40-accessories-202609-3dabbd.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/store-card-40-accessories-202609?wid=800&hei=1000&fmt=webp&qlt=90&.v=K1NBYnFSRndoRHEyUklJLyttMlQ2TG1qbzh6M0pUN1JpZkczYjRybGZNUnFTRjNxbmh1UnU2R29ibGdpZUFXc25ZdDMremx3N21EQS9OQlBTRXgxeUp5dXpFTzJma0dsYURVWlNjRzA0b3hScUlPVWprbUpBaEFzSlFPM0dUcXg&traceId=1"
+  },
+  "store-card-40-applemusic-202609-0fa7e8.webp": {
+    "file": "store-card-40-applemusic-202609-0fa7e8.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/store-card-40-applemusic-202609?wid=800&hei=1000&fmt=webp&qlt=90&.v=REFqMnc0RUtNcWNBem5LRlFGZ25lVnBDREdpM1ZWYnFOUHZEd2VEc2Mxbm45S05qekNUdVUwMVFyK1pKaERUd3lPWjFvdU5EZVdwUnRCZ2RHSDBFS29SU0YrbEdQaWNZOWZzT2VHbkhZUFM1dDgvV3BhU1hoSzFPUEZjam5HQ2g&traceId=1"
+  },
+  "store-card-40-business-202609_GEO_US-329b3e.webp": {
+    "file": "store-card-40-business-202609_GEO_US-329b3e.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/store-card-40-business-202609_GEO_US?wid=800&hei=1000&fmt=webp&qlt=90&.v=TVRWamYxMHBJRG5zb0o5SDIweUVibmg3TktHdXNKK2FZZlhwV3k2WGg5Y3dMbFViczZ0TFhCZStvRUM4YWY1UWdpcjhyQnJrZTk3NDVpVGh0RDBPL1FybkdvS2U4d0FhRkRvRXFuOUliNzFnSG9kSmZ4R3dIa1FDV3FhRWtmNEk&traceId=1"
+  },
+  "store-card-40-education-202609-44f7b6.webp": {
+    "file": "store-card-40-education-202609-44f7b6.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/store-card-40-education-202609?wid=800&hei=1000&fmt=webp&qlt=90&.v=TysyM3c4L0xvQ1dZWVNWTXZ0ekxPT3FZdktzMlZ6T240YVluQWFKYXhUcjkvamYzRzRvcFlnajNacmhEOC9BeEZXZzlzM2cwVmJseGdsS3RYT09za3ZERG1mS2EyUTN1Q09mUmN2RHljNUIrYWpGdS9XeFgvbS9ITnNYOEhYaG4&traceId=1"
+  },
+  "store-card-40-gov-202503-773b65.webp": {
+    "file": "store-card-40-gov-202503-773b65.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/store-card-40-gov-202503?wid=800&hei=1000&fmt=webp&qlt=90&.v=dml5SzFDRnVlZ3JiOXZxcklwYUFBRDJEUGFubVlzY1VuVjZOclhXdXZWUU1MUWFtZWpMbDBib05oM011eHN1eGppU2w4VFNSVERQaklTcWlPMFlGdTRLZTl4N2NjUHNmNTZkVTNoUjh5U1k&traceId=1"
+  },
+  "store-card-40-home-view-202610-7ce9b6.webp": {
+    "file": "store-card-40-home-view-202610-7ce9b6.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/store-card-40-home-view-202610?wid=800&hei=1000&fmt=webp&qlt=80&.v=VXNuZmVZU0R3VzJZalF2dFJTeUN3OEx2ai9CTk9UdmJqK0VZNVcrSzkwejkvamYzRzRvcFlnajNacmhEOC9BeHowU3Qvd0lwaHpuRmtZMm1RSGI3amtBYWdzaXExd09EUy9PanBDL3dXdTUrYWpGdS9XeFgvbS9ITnNYOEhYaG4&traceId=1"
+  },
+  "store-card-40-imac-202610-b41357.webp": {
+    "file": "store-card-40-imac-202610-b41357.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/store-card-40-imac-202610?wid=800&hei=1000&fmt=webp&qlt=90&.v=SDU3bnEzdnkyK3lPQ3p5Ky93UVdMbEJCdy9tbFhHZy80VlpFM2ZVTHh1eDRreVJielVXQlVkRTVvK3pzUERnRHJiOFZFN3FUV0tKQTBFRm1maXhPRC9rd0xEczFoblFGRm5VOTJrdStiUkU&traceId=1"
+  },
+  "card-ipad.webp": {
+    "file": "card-ipad.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/store-card-40-ipad-mini-202610?wid=800&hei=1000&fmt=webp&qlt=90&.v=UzBXQnlhUWdraTNvNU1Kb3pEQlpXSzRkWWRIVGdEZDlnMi83eFJpTks1ejkvamYzRzRvcFlnajNacmhEOC9BeEZXZzlzM2cwVmJseGdsS3RYT09za3FkNlB0Uk5relF0UTRtQ01SVE1WZmwrYWpGdS9XeFgvbS9ITnNYOEhYaG4&traceId=1"
+  },
+  "card-iphone.webp": {
+    "file": "card-iphone.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/store-card-40-iphone-18-pro-202609?wid=800&hei=1000&fmt=webp&qlt=90&.v=UzBXQnlhUWdraTNvNU1Kb3pEQlpXSWQybG1sZ1oxVnEyWjA5KzltU01ZTFNab1lJcUZwSFVRK1htYlNmZUtPTFJ2R3NEUGt3Q2tTUTNWU09neHFkdWRUL1Azd1lsYk5RbEsxZXhvbThSV3VXS3B5dFRDdHdOWGF6ZzVmZHdiRWc&traceId=1"
+  },
+  "card-mac.webp": {
+    "file": "card-mac.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/store-card-40-macbook-pro-202610?wid=800&hei=1000&fmt=webp&qlt=90&.v=MjhMcWJ2MGZwbXEwdnBkcUN6ZnhyMkpFM3Y2TmlrNUtLaEJDYVhaTncvdHFTRjNxbmh1UnU2R29ibGdpZUFXc25ZdDMremx3N21EQS9OQlBTRXgxeUhMK0VCWXhPMmxMWWJVNDBLaVNoa1dINUhveGhFc1lXWld4RkQ2dkFBMi8&traceId=1"
+  },
+  "store-card-40-refurb-202408-37275c.webp": {
+    "file": "store-card-40-refurb-202408-37275c.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/store-card-40-refurb-202408?wid=800&hei=1000&fmt=webp&qlt=90&.v=MTZ5STlsTFBndFBGTjdlaHEreGY1YTFsUjh2RWUzeU9adTZtZmNMZDNMVnd5b1hKY2V3T2V4alVLZTRFVTdOK1RVbGY1Uno3Zm5uM1BxeHV2clpndVBFcG82Z2ZoNURDamNUbHI2WWJrc2M&traceId=1"
+  },
+  "store-card-50-apple-intelligence-202609-e3488f.jpg": {
+    "file": "store-card-50-apple-intelligence-202609-e3488f.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/store-card-50-apple-intelligence-202609?wid=960&hei=1000&fmt=jpeg&qlt=90&.v=SFNxMjRYSTFLdjBJZG1UYjBKRUNDalZCM0g0MTRQL0NONjZoQUpUNEpyYVdEMXA0MWpoUGsyVlhVK0RESnBoeHAwckMxbExydC8yeDhtUjlFVHdKVnFPZGdrdkJYeDZmRHNaQ2JLUk0vWjZlZ1o3YzRHbjRxR1pKd2NYWGxuMTA"
+  },
+  "store-card-50-continuity-202609_GEO_US-b74209.webp": {
+    "file": "store-card-50-continuity-202609_GEO_US-b74209.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/store-card-50-continuity-202609_GEO_US?wid=960&hei=1000&fmt=webp&qlt=90&.v=MkxpRXJEbEM4SjVucjFvcTdEU1BlNktGcElSZCtpUGVDcVhib0c0eEptbkFkWTlnaEhRWXFUU1Nhem4xR20wcHBxK0ZBNmxGbmUyUFZlUkRMaDBrbFNNMFp4YWR1N3E2b1dlVHpTc3F2TXdOOEcvS0M0OWFBQ2FJclFHb2VWSW0&traceId=1"
+  },
+  "store-card-50-home-ecosystem-202610_GEO_US-1966e8.webp": {
+    "file": "store-card-50-home-ecosystem-202610_GEO_US-1966e8.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/store-card-50-home-ecosystem-202610_GEO_US?wid=960&hei=1000&fmt=webp&qlt=80&.v=UWdrNzNrY0ZiOGhRNlVuUlF4U3JoL2NtZFlXYzV2akMyMWhXSFZ4eEdsRmpsV3hCaktsM1labzB2NzdDRTlMS1M3UUxhTDY4VmxnT1pqOEpldm1McjhnL2JjWnFnM0hORGlNQXFQQ0VhbEZEZDRYQUlYNmpyNHlKY3ZJdldWSS8&traceId=1"
+  },
+  "store-card-50-homekit-202610-ad4eca.webp": {
+    "file": "store-card-50-homekit-202610-ad4eca.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/store-card-50-homekit-202610?wid=960&hei=1000&fmt=webp&qlt=80&.v=UWdrNzNrY0ZiOGhRNlVuUlF4U3JoLzg2OWFFdk1RUmFxMWdlS2xOck1Od0F3Wk1qdTlJUXpYbmUrMWJwLzZvbUVhSU5RcWtXVTArbnJwa0xCZE1EYldmTGRSUWJodWR4TVVNTWVtK2RjWDg&traceId=1"
+  },
+  "store-card-50-specialist-help-202512-477eaa.webp": {
+    "file": "store-card-50-specialist-help-202512-477eaa.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/store-card-50-specialist-help-202512?wid=960&hei=1000&fmt=webp&qlt=90&.v=TkJLQU9OWTZMS1N4dlhoOWl3SEhrUkxnN3NTOHN5WTV1c3NEYkc1TXhDMzcydVEyUlBCcVdrTlBkR2FhK21pbGdpcjhyQnJrZTk3NDVpVGh0RDBPL2F4QUljQmVqbVJQUjNhWWMxZDJtSUs0cGR2RlBjQW9meUMyVmRrUStsS0I&traceId=1"
+  },
+  "store-card-50-specialist-video-202609-42c388.webp": {
+    "file": "store-card-50-specialist-video-202609-42c388.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/store-card-50-specialist-video-202609?wid=960&hei=1000&fmt=webp&qlt=90&.v=TkJLQU9OWTZMS1N4dlhoOWl3SEhrYnlpTHAvaU1TZWJjTXg3K2FoelBrWXZBcWg0NUNQNURSblhmSFVuWmNkcjhKazZ3eldNWjF4eFJ4OTNUaDNrTE84bWFqWVR4REw4TEdQdmNaWHhsWUl4RHN4dm1kTUpyNlp1d0NZKzQ1bTI&traceId=1"
+  },
+  "store-card-50-taa-202604-d0a2a5.webp": {
+    "file": "store-card-50-taa-202604-d0a2a5.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/store-card-50-taa-202604?wid=960&hei=1000&fmt=webp&qlt=90&.v=cFEvalhFakpZVzg4RFZsWktqbXFNWTRVSDFQSG9PTUEyd0dDYzl5b1A1WU1MUWFtZWpMbDBib05oM011eHN1eG1TR1FzNTk1RUZCQzAyT1Z6ZDV4Vk9HTkpBbEYvQVgyNXp2ZlI1ZWZZREU&traceId=1"
+  },
+  "store-card-50-taa-ai-202604-a97c7e.webp": {
+    "file": "store-card-50-taa-ai-202604-a97c7e.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/store-card-50-taa-ai-202604?wid=960&hei=1000&fmt=webp&qlt=90&.v=cFEvalhFakpZVzg4RFZsWktqbXFNYnZ0eGJDYUF3MFBoaDZXSkNFUHdVMGYzUHRVc053YldlK2NuZForb0M1V1RVbGY1Uno3Zm5uM1BxeHV2clpndUszNFJmWXBYWTFIQU9YRkJ2NlRXOFE&traceId=1"
+  },
+  "ultra-case-unselect-gallery-1-202609-0a9779.jpg": {
+    "file": "ultra-case-unselect-gallery-1-202609-0a9779.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ultra-case-unselect-gallery-1-202609?wid=5120&hei=3280&fmt=p-jpg&qlt=80&.v=aTVJSEliNW9jb25zalBlTm16VmMxcWpkNHRJWDMzcTg3NWRxV0pydTcvSzluS1VKSlF6NngvMElCYUFkL2wvbXc2NytHaDA2aFdROEtrekNxcXV6T3QrSm12b2xXZzBTL2xSL2N0UnR6aUg0MDA3eHBvZjl4c3g3bWU0VnNOV0k"
+  },
+  "ultra-case-unselect-gallery-2-202609-13168e.jpg": {
+    "file": "ultra-case-unselect-gallery-2-202609-13168e.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ultra-case-unselect-gallery-2-202609?wid=5120&hei=3280&fmt=p-jpg&qlt=80&.v=aTVJSEliNW9jb25zalBlTm16VmMxcGVRd2haMzFqa0U0dE9VL3M5SW1UcTluS1VKSlF6NngvMElCYUFkL2wvbXc2NytHaDA2aFdROEtrekNxcXV6T3QrSm12b2xXZzBTL2xSL2N0UnR6aUZiL0F6a1VyUUcwNE1tNzdMajdPMEY"
+  },
+  "store-card-40-upgrade-202609-vid1-6a4779.mp4": {
+    "file": "store-card-40-upgrade-202609-vid1-6a4779.mp4",
+    "source": "https://store.storevideos.cdn-apple.com/v1/store.apple.com/st/1787323760889/store-card-40-upgrade-202609-vid1.mp4"
+  },
+  "store-card-40-motion-iphone-duo-202609-vid1_GEO_US-cd4f0f.mp4": {
+    "file": "store-card-40-motion-iphone-duo-202609-vid1_GEO_US-cd4f0f.mp4",
+    "source": "https://store.storevideos.cdn-apple.com/v1/store.apple.com/st/1789684605768/store-card-40-motion-iphone-duo-202609-vid1_GEO_US.mp4"
+  },
+  "iphone-duo-finish-select-202609-nightsky-6ec6b7.webp": {
+    "file": "iphone-duo-finish-select-202609-nightsky-6ec6b7.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-duo-finish-select-202609-nightsky?wid=5120&hei=2880&fmt=webp&qlt=90&.v=L2FnUkNTRm43ZDRCREFsdzlaeThka1k5MDdKKy9LWVNaMytjbFNMOXdSVEhhY3hpTU1HMHUrcGZ3Wm5mSDU4c09UVDVQbVhkcDIxQlRzeDZXVVpQSzYyL0ZSTzZrMWlpUU5CQlpuNHNUZzh4Z1d3Rzk1azM5VzhHa2FYRjNHL0s&traceId=1"
+  },
+  "iphone-duo-finish-select-202609-nightsky_AV1-67a2ee.webp": {
+    "file": "iphone-duo-finish-select-202609-nightsky_AV1-67a2ee.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-duo-finish-select-202609-nightsky_AV1?wid=5120&hei=2880&fmt=webp&qlt=90&.v=L2FnUkNTRm43ZDRCREFsdzlaeThka1k5MDdKKy9LWVNaMytjbFNMOXdSU0dtcm1Id0VmOXd6ZWFKZEdCTy9WQU9MekhWSGZtV1pvV240QzNuTk80VS9jVTIwcEJjL3Axby9SNE1La0phb1hFT1JpdUI0QTc4UTAraFl1L05tZ3k&traceId=1"
+  },
+  "iphone-duo-finish-select-202609-nightsky-bf6f17.webp": {
+    "file": "iphone-duo-finish-select-202609-nightsky-bf6f17.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-duo-finish-select-202609-nightsky?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=L2FnUkNTRm43ZDRCREFsdzlaeThka1k5MDdKKy9LWVNaMytjbFNMOXdSVEhhY3hpTU1HMHUrcGZ3Wm5mSDU4c3ZIZkplbmJiNHg2c1VDS2NVdjhMUVBXdlJRYjdSZWJHVUh4aFVDb0hhVVYvNWxMclk2TDJvVU9IZkFjQmNsYWk&traceId=1"
+  },
+  "iphone-duo-finish-select-202609-nightsky_AV1-6cd8fc.webp": {
+    "file": "iphone-duo-finish-select-202609-nightsky_AV1-6cd8fc.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-duo-finish-select-202609-nightsky_AV1?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=L2FnUkNTRm43ZDRCREFsdzlaeThka1k5MDdKKy9LWVNaMytjbFNMOXdSU0dtcm1Id0VmOXd6ZWFKZEdCTy9WQU9MekhWSGZtV1pvV240QzNuTk80VXpBSHlqQStCOGVBOUJkSkVqU0hLTkNUR3BRWU5vWVpYTGdlV0MzWHdidGhmbW94YnYxc1YvNXZ4emJGL0IxNFp3&traceId=1"
+  },
+  "iphone-duo-finish-select-202609-starwhite-9876ad.webp": {
+    "file": "iphone-duo-finish-select-202609-starwhite-9876ad.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-duo-finish-select-202609-starwhite?wid=5120&hei=2880&fmt=webp&qlt=90&.v=L2FnUkNTRm43ZDRCREFsdzlaeThka1k5MDdKKy9LWVNaMytjbFNMOXdSUnl3aXBKMUxwcDNMOHZEZWtmbkZkTEpFd0xhWDVibStLdGRYRmxkNGI4VTR2UjRaSC9URTlmd0FSb1ZTWjRnb3R3alJ6VUFWdDlGYU0zbEJhSWRIMVQ&traceId=1"
+  },
+  "iphone-duo-finish-select-202609-starwhite_AV1-3f19ad.webp": {
+    "file": "iphone-duo-finish-select-202609-starwhite_AV1-3f19ad.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-duo-finish-select-202609-starwhite_AV1?wid=5120&hei=2880&fmt=webp&qlt=90&.v=L2FnUkNTRm43ZDRCREFsdzlaeThka1k5MDdKKy9LWVNaMytjbFNMOXdSU1pESk12dTF1VmhmSkJVUHIwbERpSTBoUVhuTWlrY2hIK090ZGZZbk9HeEJWb1BiTjRORlc1Y1lKU3JWempySkk2bWZHbk5kcWVpak0ydlc0S2RXSnhmbW94YnYxc1YvNXZ4emJGL0IxNFp3&traceId=1"
+  },
+  "store-card-40-upgrade-202609-bec2cb.webp": {
+    "file": "store-card-40-upgrade-202609-bec2cb.webp",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/store-card-40-upgrade-202609?wid=800&hei=1000&fmt=webp&qlt=90&.v=N1Z4NzByU2Jad3MrelNMcUtndzVCL09DaHZkM2RxZmRrVHFFODB4L3IwY2QxYXI4a0J1dmxHNzJaeEFoWmI5RER5ZVpDdUpVU08vSGU1ZXgwbmQ5RnZIZFFvVllPNDlvYVBkYThYWExpeDg&traceId=1"
+  },
+  "sf-pro-text_regular.woff2": {
+    "file": "sf-pro-text_regular.woff2",
+    "source": "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_regular.woff2"
+  },
+  "sf-pro-text_semibold.woff2": {
+    "file": "sf-pro-text_semibold.woff2",
+    "source": "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_semibold.woff2"
+  },
+  "sf-pro-display_semibold.woff2": {
+    "file": "sf-pro-display_semibold.woff2",
+    "source": "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_semibold.woff2"
+  },
+  "sf-pro-icons_regular.woff2": {
+    "file": "sf-pro-icons_regular.woff2",
+    "source": "https://www.apple.com/wss/fonts/SF-Pro-Icons/v3/sf-pro-icons_regular.woff2"
+  },
+  "vision-pro-card-66-vision-pro-202510-c2fe2b.jpg": {
+    "file": "vision-pro-card-66-vision-pro-202510-c2fe2b.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/vision-pro-card-66-vision-pro-202510?wid=1172&hei=588&fmt=p-jpg&qlt=95&.v=L1pSZ3crYzQyYi9oWFMxYnBIUU14azUrWElEbWtOZDFDbzZYSVhpQUIvT0lqaDhEZ0lkMGM1T2haZjM0U2djb25NdFJkNDBiOXRUSlVaK3lBZEdMdHFLTitIbUtKTGFXc0sxWi8rbHBDb1R2L004TmsyMmEvR1BpY1dQL3hYV2Y"
+  },
+  "vision-pro-card-40-zeiss-optical-202401-76867f.jpg": {
+    "file": "vision-pro-card-40-zeiss-optical-202401-76867f.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/vision-pro-card-40-zeiss-optical-202401?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=L1pSZ3crYzQyYi9oWFMxYnBIUU14b0VtME5iZHdoTi9hdEdWUTl1cDNaMGZzV1hNbzFjNEFObEhtZXVUTnZET05yRWFIYjlRWlVneklVL3doRWU1R3FyWU1nT0VWRy8rcFVxcEhTSlhNV0lRaFdUN3VhM0F0WFYrYWZTNHo2NU8"
+  },
+  "vision-pro-card-40-accessories-202604-a471b9.jpg": {
+    "file": "vision-pro-card-40-accessories-202604-a471b9.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/vision-pro-card-40-accessories-202604?wid=800&hei=1000&fmt=p-jpg&qlt=95&.v=L1pSZ3crYzQyYi9oWFMxYnBIUU14dnMwVjZBeVI0QThzNmVqVDgva2tvSnEyc3JQNHd6S3JQRFp1OXowSFc5b21td3JHMmlHM0d0VzBMMGs5ZHR4Wnk3TkFOdDk2TkRhTEptVG5tQytCKzdvU2dRNjFkeUdOejJNTFZQdFZFdEg"
+  },
+  "giftcard-unselect-2020-family-5546ac.jpg": {
+    "file": "giftcard-unselect-2020-family-5546ac.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/giftcard-unselect-2020-family?wid=4000&hei=3836&fmt=jpeg&qlt=90&.v=eFd1RTQ2LytmSEtBRlZiZ1d5SlhpVlB3b0EzVWYvZkNsdEwzQ0ovQlhFWTFPa1JCeUZ3cFpDUXdad3pjVWVYUDE1UUxLT2t0cW42N3FvQzVqaGhrVVYvRE50SE5iMDloVmFMNCt3TE1KTU4rYWpGdS9XeFgvbS9ITnNYOEhYaG4"
+  },
+  "airtag-1pack-select-202601-155605.jpg": {
+    "file": "airtag-1pack-select-202601-155605.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airtag-1pack-select-202601?wid=890&hei=890&fmt=jpeg&qlt=90&.v=eVZIdm00RE01SWs3QURJMUxNRitlZVZqT1dKM09ua0FPbE1ISEVUN05sMkI1ZVdxRDZ3cXVTb1JEWG12a0VGNmdsbGZlRHV0Q3JlbHJxWXRlWjZpMnVxRWlIRHFWV25Bdkh2R3M3OEF2bkk"
+  },
+  "airtag-4pack-select-202601-ed1175.jpg": {
+    "file": "airtag-4pack-select-202601-ed1175.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airtag-4pack-select-202601?wid=890&hei=890&fmt=jpeg&qlt=90&.v=QVI2eUgvdU1qT1VRdEZUOXVUVHgrZVZqT1dKM09ua0FPbE1ISEVUN05sMkI1ZVdxRDZ3cXVTb1JEWG12a0VGNmdsbGZlRHV0Q3JlbHJxWXRlWjZpMmtTUTZ6dWRVNENZUTFnRU9hRWdmcmM"
+  },
+  "airtag-1pack-select-202601-170ed9.png": {
+    "file": "airtag-1pack-select-202601-170ed9.png",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airtag-1pack-select-202601?wid=940&hei=1112&fmt=png-alpha&.v=eVZIdm00RE01SWs3QURJMUxNRitlUUZRNU9LNkVNWnlXdGtyVWlDRm54QmZhS1VCT1k0VG5wendIdURyT0d4ZURrcnNsQUdJUGlKTENUeG5lbFJUV0Y0dnJSYzFEb21pLzZjOUEzZEtaSkk"
+  },
+  "airtag-gallery1-202601-thumbnail-8a7411.jpg": {
+    "file": "airtag-gallery1-202601-thumbnail-8a7411.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airtag-gallery1-202601-thumbnail?wid=406&hei=240&fmt=jpeg&qlt=90&.v=b3k5VkZMWFdHSC95NTVIejlURzBCL3FqNW93WGJKR1VjV2RrSU5WaXdJN1dHUDBpRW9IbmloV2lEOFl2WmZveWJGcXNRQnFCV0w3WVRjTExvdm1ic1FTQXY2Ky9LWjVtdnkyM2xsMmpTNzY1dDgvV3BhU1hoSzFPUEZjam5HQ2g"
+  },
+  "airtag-gallery2-202601-thumbnail-0a2511.jpg": {
+    "file": "airtag-gallery2-202601-thumbnail-0a2511.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airtag-gallery2-202601-thumbnail?wid=282&hei=240&fmt=jpeg&qlt=90&.v=S2ZMVnNNNHNIQTlpd2hQQXZWcjlqL3FqNW93WGJKR1VjV2RrSU5WaXdJNzFZa1dqT093L2U2d29MN0F1V1VobGJGcXNRQnFCV0w3WVRjTExvdm1ic2NIZWxQckZtVkl1aUVZZy83TXhOeDhVRk5BYjU4dkMrYjBKSjFqVXFOVGg"
+  },
+  "vision-pro-kit-witb-202510-3b8e69.jpg": {
+    "file": "vision-pro-kit-witb-202510-3b8e69.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/vision-pro-kit-witb-202510?wid=626&amp%3Bhei=676&amp%3Bfmt=jpeg&amp%3Bqlt=90&amp%3B.v=bjRaTE1PazZyZkdWaS9Tdlg2QlVyRVdiSHVhek1MRDB6b0NJTTk5RXhWT1JlaXAyOHlDSGY0VHlFZlZCL1ZuUmdsbGZlRHV0Q3JlbHJxWXRlWjZpMnVCT1AvbVNVaTU4YnBQMVRBNlZ3ZHM"
+  },
+  "vision-pro-cushion-witb-202510-ac366a.jpg": {
+    "file": "vision-pro-cushion-witb-202510-ac366a.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/vision-pro-cushion-witb-202510?wid=372&amp%3Bhei=676&amp%3Bfmt=jpeg&amp%3Bqlt=90&amp%3B.v=ekl4YnhwN2xIQ2hjZG52OU9QNEZ0d21NZXFXVUhhcS9IMElOa1R4dHRLVExXWVNaYmNmRlRhbGtsY25MYWF3UHZvdUZlR0V0VUdJSjBWaDVNVG95YkVGMG1GT0FzZE1rMTZTaWF6bGpHVEU"
+  },
+  "vision-pro-cover-witb-202510-006bf3.jpg": {
+    "file": "vision-pro-cover-witb-202510-006bf3.jpg",
+    "source": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/vision-pro-cover-witb-202510?wid=408&amp%3Bhei=676&amp%3Bfmt=jpeg&amp%3Bqlt=90&amp%3B.v=SGlzS1JOc3BzMzU1Lzkwb3FsdlROWnRoR015WWdaWG1yNExNK2I0Smo5dTdGYk9SU1VrTWVZTlJ2YTM4UnRGVk14MXJScFRZN3Y5OWZsRXVrN1k4cFFXQU5Hc21SRW5RNVhXdWtuUkxxK00"
   }
 }

@@ -5,7 +5,9 @@ An Apple-inspired shopping simulator built for the feeling of choosing something
 ## Included
 
 - Responsive Apple-style storefront with locally bundled product photography.
-- Seven configurable products, finish swatches, storage/model options, and simulated AppleCare+.
+- Expanded catalog covering the Store’s main products, accessories, AirTag, and Gift Card, with finish, model, storage, chip, display, band, and other configuration options.
+- All seven Store shelves, exact Apple web fonts and product media, desktop hover menus with backdrop blur, searchable navigation, shopping-bag flyout, draggable shelves, hover video previews, and gallery transitions.
+- Free simulated engraving for eligible products, payment previews, and purchase-price snapshots that keep order receipts stable after catalog updates.
 - Search, saved products, shopping bag, quantity controls, and repeat purchases.
 - Refillable $25,000 play-money wallet, cent-accurate totals, simulated 8.25% tax, and standard/express shipping.
 - Complete checkout, order confirmation, persistent order history, weekday delivery estimates, and automatic tracking milestones.
@@ -35,3 +37,5 @@ Amounts use integer cents. Delivery estimates are fixed when an order is placed,
 ## Attribution
 
 Independent fan project; not affiliated with or endorsed by Apple. Apple trademarks and product imagery belong to Apple. Public source image URLs are recorded in `dist/assets/sources.json`. No Apple website scripts, trackers, account forms, or checkout endpoints are included.
+
+The local checkout and all downloaded assets are saved in `G:\AppleWebsiteFunToUse`. Public reference research is kept in the ignored `.reference/` directory. The storefront follows the reviewed Apple Store presentation; Apple’s real account, carrier, financing, appointment, and fit/scan services are not connected.

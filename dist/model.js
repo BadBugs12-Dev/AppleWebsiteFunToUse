@@ -1,3 +1,4 @@
+import {EXTRA_PRODUCTS,PRODUCT_DETAILS} from './store-data.js';
 export const CATALOG = [
   {id:'duo',name:'iPhone Duo',category:'iPhone',tag:'A whole new world opens up.',badge:'NEW',price:199900,card:'card-duo.webp',image:'duo-white.jpg',thumb:'duo-front.png',dark:true,lead:[4,7],description:'Two sides. So many possibilities. Make room for something extraordinary.',colors:[{name:'Star White',hex:'#e5e2dc',image:'duo-white.jpg'},{name:'Night Sky',hex:'#303d4b',image:'duo-night.jpg'}],optionName:'Storage',options:[['256GB',0],['512GB',20000],['1TB',40000],['2TB',80000]],care:19900},
   {id:'iphone',name:'iPhone 18 Pro',category:'iPhone',tag:'Pro further.',badge:'NEW',price:119900,card:'card-iphone.webp',image:'iphone-burgundy.jpg',thumb:'iphone-burgundy.jpg',dark:true,lead:[2,4],description:'Pick your finish. Find your space. Meet your next favorite thing.',colors:[{name:'Burgundy',hex:'#66363f',image:'iphone-burgundy.jpg'},{name:'Silver',hex:'#d8d8d6',image:'iphone-silver.jpg'},{name:'Glacier',hex:'#a4bdcc',image:'iphone-glacier.jpg'}],optionName:'Storage',options:[['256GB',0],['512GB',20000],['1TB',40000]],care:19900},
@@ -8,17 +9,24 @@ export const CATALOG = [
   {id:'vision',name:'Apple Vision Pro',category:'Vision',tag:'A space for your imagination.',badge:'EXPLORE',price:349900,card:null,image:'nav-vision.webp',thumb:'nav-vision.webp',dark:false,lead:[4,6],description:'Dream a little bigger. Create your own space for the things you love.',colors:[{name:'Silver',hex:'#d6d8d9'}],optionName:'Storage',options:[['256GB',0],['512GB',20000],['1TB',40000]],care:49900}
 ];
 export const CATEGORIES = [{name:'Mac',image:'nav-mac.webp'},{name:'iPhone',image:'nav-iphone.webp'},{name:'iPad',image:'nav-ipad.webp'},{name:'Watch',label:'Apple Watch',image:'nav-watch.webp'},{name:'AirPods',image:'nav-airpods.webp'},{name:'Vision',label:'Apple Vision Pro',image:'nav-vision.webp'}];
+for(const p of CATALOG){const d=PRODUCT_DETAILS[p.id];if(d){p.gallery=d.gallery;p.colorGalleries=d.colorGalleries;p.groups=d.groups.filter(g=>!(p.optionName==='Connectivity'&&g.id.includes('connection'))&&!(p.optionName==='Model'&&g.id.includes('model')));if(d.options.length>1){p.options=d.options;p.optionName=d.optionName;}if(p.id==='vision'){p.price=d.price;p.image=d.image;}for(const color of d.colors){if(!p.colors.some(c=>c.name===color.name))p.colors.push(color);}p.tag=d.tag||p.tag;p.badge=d.badge;p.card=d.card||p.card;p.dark=d.dark;p.monthly=d.monthly;p.lease=d.lease;}}
+CATALOG.push(...EXTRA_PRODUCTS);
+const duo=CATALOG.find(p=>p.id==='duo');duo.options=[['256GB',0],['512GB',20000],['1TB',60000],['2TB',120000]];
+for(const p of CATALOG)if(!p.groups)p.groups=[];
 export const money = n => new Intl.NumberFormat('en-US',{style:'currency',currency:'USD'}).format(n/100);
 export const initialState = () => ({version:1,balance:2500000,bag:[],saved:[],orders:[],clockOffset:0,sound:true});
-export function selection(id,color=0,option=0,care=false) {
+export function selection(id,color=0,option=0,care=false,choices={}) {
   const p=CATALOG.find(p=>p.id===id);
   if(!p || !p.colors[color] || !p.options[option])throw new Error('Choose a valid product configuration.');
-  return {productId:id,color,option,care:!!care};
+  const chosen={};
+  for(const group of p.groups||[]){if(choices[group.id]!==undefined){const value=choices[group.id];if(!Number.isInteger(value)||!group.options[value])throw new Error('Choose a valid product configuration.');chosen[group.id]=value;}}
+  if(Object.keys(choices).some(key=>!p.groups?.some(g=>g.id===key)))throw new Error('Choose a valid product configuration.');
+  return {productId:id,color,option,care:!!care,...(Object.keys(chosen).length?{choices:chosen}:{})};
 }
 export function itemPrice(item) {
-  const clean=selection(item.productId,item.color,item.option,item.care);
+  const clean=selection(item.productId,item.color,item.option,item.care,item.choices||{});
   const p=CATALOG.find(p=>p.id===clean.productId);
-  return p.price+p.options[clean.option][1]+(clean.care?p.care:0);
+  return p.price+p.options[clean.option][1]+(clean.care?p.care:0)+Object.entries(clean.choices||{}).reduce((sum,[key,value])=>sum+p.groups.find(g=>g.id===key).options[value].add,0);
 }
 export function totals(items,shipping='standard') {
   if(!['standard','express'].includes(shipping))throw new Error('Choose a delivery option.');
@@ -47,7 +55,7 @@ export function placeOrder(state,shipping='standard',nickname='You',date=new Dat
   if(!state.bag.length)throw new Error('Your bag is empty. Find something you love first.');
   const bill=totals(state.bag,shipping);
   if(state.balance<bill.total)throw new Error('Your pretend wallet needs a top-up. Add some funds and try again.');
-  const order={id,created:new Date(date).toISOString(),items:structuredClone(state.bag),shipping,nickname:String(nickname||'You').trim().slice(0,40)||'You',...bill,shippingCost:bill.delivery,delivery:deliveryWindow(state.bag,shipping,date),cancelled:false,opened:false};
+  const order={id,created:new Date(date).toISOString(),items:structuredClone(state.bag).map(i=>({...i,unitPrice:itemPrice(i)})),shipping,nickname:String(nickname||'You').trim().slice(0,40)||'You',...bill,shippingCost:bill.delivery,delivery:deliveryWindow(state.bag,shipping,date),cancelled:false,opened:false};
   return {state:{...state,balance:state.balance-bill.total,bag:[],orders:[order,...state.orders]},order};
 }
 export function stages(order) {
@@ -72,12 +80,13 @@ export function cancelOrder(state,id,date=new Date()) {
   if(orderStatus(order,date).index>=2)throw new Error('This order has already shipped.');
   return {...state,balance:state.balance+order.total,orders:state.orders.map(o=>o.id===id?{...o,cancelled:true}:o)};
 }
+function legacyUnitPrice(item){const old={duo:[199900,[0,20000,40000,80000],19900],iphone:[119900,[0,20000,40000],19900],mac:[199900,[0,20000,60000],27900],ipad:[69900,[0,10000,30000],7900],watch:[39900,[0,10000],7900],airpods:[12900,[0,5000],2900],vision:[349900,[0,20000,40000],49900]}[item.productId];return old?old[0]+(old[1][item.option]||0)+(item.care?old[2]:0):itemPrice(item);}
 export function restoreState(raw) {
   const fresh=initialState();
   try {
     const s=JSON.parse(raw);
     if(s.version!==1||!Number.isSafeInteger(s.balance)||s.balance<0||!Array.isArray(s.bag)||!Array.isArray(s.orders))return fresh;
     const valid=i=>{try{return itemPrice(i)>0&&Number.isInteger(i.qty)&&i.qty>0&&i.qty<=10;}catch{return false;}};
-    return {...fresh,...s,balance:Math.min(s.balance,100000000000),bag:s.bag.filter(valid),saved:Array.isArray(s.saved)?s.saved.filter(id=>CATALOG.some(p=>p.id===id)):[],orders:s.orders.filter(o=>Array.isArray(o.items)&&o.items.length&&o.items.every(valid)&&Number.isSafeInteger(o.total)&&o.total>=0&&Number.isFinite(Date.parse(o.created))&&Number.isFinite(Date.parse(o.delivery?.end))&&Number.isFinite(Date.parse(o.delivery?.start))),clockOffset:Number.isFinite(s.clockOffset)&&s.clockOffset>=0?Math.min(s.clockOffset,315360000000):0,sound:typeof s.sound==='boolean'?s.sound:true};
+    return {...fresh,...s,balance:Math.min(s.balance,100000000000),bag:s.bag.filter(valid),saved:Array.isArray(s.saved)?s.saved.filter(id=>CATALOG.some(p=>p.id===id)):[],orders:s.orders.filter(o=>Array.isArray(o.items)&&o.items.length&&o.items.every(valid)&&Number.isSafeInteger(o.total)&&o.total>=0&&Number.isFinite(Date.parse(o.created))&&Number.isFinite(Date.parse(o.delivery?.end))&&Number.isFinite(Date.parse(o.delivery?.start))).map(o=>({...o,items:o.items.map(i=>({...i,unitPrice:Number.isSafeInteger(i.unitPrice)?i.unitPrice:legacyUnitPrice(i)}))})),clockOffset:Number.isFinite(s.clockOffset)&&s.clockOffset>=0?Math.min(s.clockOffset,315360000000):0,sound:typeof s.sound==='boolean'?s.sound:true};
   }catch{return fresh;}
 }
