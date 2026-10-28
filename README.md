@@ -35,4 +35,3 @@ Amounts use integer cents. Delivery estimates are fixed when an order is placed,
 ## Attribution
 
 Independent fan project; not affiliated with or endorsed by Apple. Apple trademarks and product imagery belong to Apple. Public source image URLs are recorded in `dist/assets/sources.json`. No Apple website scripts, trackers, account forms, or checkout endpoints are included.
-
